@@ -1,0 +1,749 @@
+Family,Genus,CommonName,Species,Species (ITIS),HomeRange_ha,Low_range,High_range,N_groups,Mean_individuals,Method,Alternative_HomeRange_ha,Alternative_HomeRange_method,Study_duration_months,Refs
+Cercopithecidae,Allenopithecus,Allen_s_Swamp_Monkey,Allenopithecus_nigroviridis,Allenopithecus_nigroviridis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Allocebus,Hairy_eared_Dwarf_Lemur,Allocebus_trichotis,Allocebus_trichotis,25.75,16,35.5,2,3,Minimum convex polygon,10.4,Kernel density estimators,8,373
+Cercopithecidae,Allochrocebus,L_Hoest_s_Monkey,Allochrocebus_lhoesti,Allochrocebus_lhoesti,116.6,NI,NI,NI,NI,NI,NI,NI,NI,1174
+Cercopithecidae,Allochrocebus,L_Hoest_s_Monkey,Allochrocebus_lhoesti,Allochrocebus_lhoesti,61.325,51.81,70.84,2,27,Kernel density estimators,75.5,Minimum convex polygon,11,245
+Cercopithecidae,Allochrocebus,Preuss_s_Monkey,Allochrocebus_preussi,Allochrocebus_preussi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Allochrocebus,Sun_tailed_Monkey,Allochrocebus_solatus,Allochrocebus_solatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atelidae,Alouatta,Ursine_Red_Howler,Alouatta_arctoidea,Alouatta_arctoidea,7.52,NI,NI,NI,NI,NI,NI,NI,NI,381
+Atelidae,Alouatta,Ursine_Red_Howler,Alouatta_arctoidea,Alouatta_arctoidea,14.5,4,25,NI,NI,NI,NI,NI,NI,380
+Atelidae,Alouatta,Ursine_Red_Howler,Alouatta_arctoidea,Alouatta_arctoidea,5.5,4,7,NI,NI,NI,NI,NI,NI,393
+Atelidae,Alouatta,Red_handed_Howler,Alouatta_belzebul,Alouatta_belzebul,7.125,4.75,9.5,2,7,NI,NI,NI,15,382
+Atelidae,Alouatta,Red_handed_Howler,Alouatta_belzebul,Alouatta_belzebul,15.75,13.5,18.05,NI,NI,NI,NI,NI,NI,383
+Atelidae,Alouatta,Paraguayan_Howler,Alouatta_caraya,Alouatta_caraya,1.95,1.7,2.2,2,18.5,NI,NI,NI,17,2
+Atelidae,Alouatta,Paraguayan_Howler,Alouatta_caraya,Alouatta_caraya,11.875,5,18.75,2,11.5,Scanning,9.8,Minimum convex polygon,12,384
+Atelidae,Alouatta,Spix_s_Howler,Alouatta_discolor,Alouatta_discolor,69,NI,NI,NI,NI,NI,NI,NI,NI,388
+Atelidae,Alouatta,Spix_s_Howler,Alouatta_discolor,Alouatta_discolor,50.1,NI,NI,1,07-sep,Grid cell approach,63.2,Minimum convex polygon,13,389
+Atelidae,Alouatta,Brown_Howler,Alouatta_guariba,Alouatta_guariba,26,NI,NI,1(12,12,Minimum convex polygon,12.5,Grid cell approach,12,390
+Atelidae,Alouatta,Brown_Howler,Alouatta_guariba,Alouatta_guariba,4.13,NI,NI,1(6,6,Grid cell approach,NI,NI,12,1206
+Atelidae,Alouatta,Guianan_Red_Howler,Alouatta_macconnelli,Alouatta_macconnelli,45,NI,NI,1,6,NI,NI,NI,19,1207
+Atelidae,Alouatta,Guianan_Red_Howler,Alouatta_macconnelli,Alouatta_macconnelli,6.62,NI,NI,26,8.5,NI,NI,NI,17,395
+Atelidae,Alouatta,Amazon_Black_Howler,Alouatta_nigerrima,Alouatta_nigerrima,25,5,45,NI,NI,NI,NI,NI,NI,3
+Atelidae,Alouatta,Mantled_Howler,Alouatta_palliata,Alouatta_palliata,40.45,4.9,76,NI,NI,NI,NI,NI,NI,392
+Atelidae,Alouatta,Central_American_Black_Howler,Alouatta_pigra,Alouatta_pigra,16.86,9.3,24.5,6,5.6,Other,NI,NI,14,397
+Atelidae,Alouatta,Central_American_Black_Howler,Alouatta_pigra,Alouatta_pigra,7.1,5.6,9,3,7.83,Kernel density estimators,NI,NI,16,398
+Atelidae,Alouatta,Bolivian_Red_Howler,Alouatta_sara,Alouatta_sara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atelidae,Alouatta,Colombian_Red_Howler,Alouatta_seniculus,Alouatta_seniculus,22,NI,NI,1,09-oct,NI,NI,NI,16,403
+Atelidae,Alouatta,Colombian_Red_Howler,Alouatta_seniculus,Alouatta_seniculus,6.62,NI,NI,26,8.5,NI,NI,NI,17,395
+Atelidae,Alouatta,Colombian_Red_Howler,Alouatta_seniculus,Alouatta_seniculus,182,NI,NI,1,07-ago,NI,NI,NI,10,404
+Atelidae,Alouatta,Maranhão_Red_handed_Howler,Alouatta_ululata,Alouatta_ululata,24.74,13.85,35.62,2,43,Adaptative Kernel,12.85,Minimum convex polygon,NI,4
+Aotidae,Aotus,Azara_s_Night_Monkey,Aotus_azarae,Aotus_azarae,7,4,10,NI,NI,NI,NI,NI,NI,407
+Aotidae,Aotus,Brumback_s_Night_Monkey,Aotus_brumbacki,Aotus_brumbacki,17.5,NI,NI,NI,NI,NI,NI,NI,NI,410
+Aotidae,Aotus,Gray_legged_Night_Monkey,Aotus_griseimembra,Aotus_griseimembra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aotidae,Aotus,Hernández_Camacho_s_Night_Monkey,Aotus_jorgehernandezi,Aotus_jorgehernandezi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aotidae,Aotus,Lemurine_Night_Monkey,Aotus_lemurinus,Aotus_lemurinus,4.35,4,4.7,2,4,Minimum convex polygon,5.25,Adaptative kernel,NI,5
+Aotidae,Aotus,Lemurine_Night_Monkey,Aotus_lemurinus,Aotus_lemurinus,0.944,0.5,1.5,5,4,NI,NI,NI,8,6
+Aotidae,Aotus,Andean_Night_Monkey,Aotus_miconax,Aotus_miconax,1.23,NI,NI,1,5,Grid cell approach,NI,NI,12,7
+Aotidae,Aotus,Ma_s_Night_Monkey,Aotus_nancymaae,Aotus_nancymaae,9.2,NI,NI,NI,NI,NI,NI,NI,NI,8
+Aotidae,Aotus,Black_headed_Night_Monkey,Aotus_nigriceps,Aotus_nigriceps,10.5,7,14,1,02-may,NI,NI,NI,NI,10
+Aotidae,Aotus,Humboldt_s_Night_Monkey,Aotus_trivirgatus,Aotus_trivirgatus,4,NI,NI,NI,NI,NI,NI,NI,NI,407
+Aotidae,Aotus,Spix_s_Night_Monkey,Aotus_vociferans,Aotus_vociferans,6.3,NI,NI,NI,NI,NI,NI,NI,NI,417
+Aotidae,Aotus,Panamanian_Night_Monkey,Aotus_zonalis,Aotus_zonalis,8,NI,NI,NI,NI,NI,NI,NI,NI,9
+Aotidae,Aotus,Panamanian_Night_Monkey,Aotus_zonalis,Aotus_zonalis,9.2,NI,NI,9,NI,NI,NI,NI,NI,10
+Lorisidae,Arctocebus,Golden_Angwantibo,Arctocebus_aureus,Arctocebus_aureus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Arctocebus,Calabar_Angwantibo,Arctocebus_calabarensis,Arctocebus_calabarensis,10,NI,NI,NI,NI,NI,NI,NI,NI,11
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,316,NI,NI,1,19-23,Grid cell approach,NI,NI,27,424
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,275.5,163,388,NI,NI,NI,NI,NI,NI,636
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,300,NI,NI,NI,NI,NI,NI,NI,NI,1182
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,325,NI,NI,NI,NI,NI,NI,NI,NI,12
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,163,NI,NI,1,30,Grid cell approach,NI,NI,72,13
+Atelidae,Ateles,White_bellied_Spider_Monkey,Ateles_belzebuth,Ateles_belzebuth,240,NI,NI,NI,NI,NI,NI,NI,NI,14
+Atelidae,Ateles,Black_Spider_Monkey,Ateles_chamek,Ateles_chamek,192,153,231,NI,NI,NI,NI,NI,NI,427
+Atelidae,Ateles,Brown_headed_Spider_Monkey,Ateles_fusciceps,Ateles_fusciceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,304,209.8,399.3,1,25-34,Kernel density estimators,1037,Minimum convex polygon,48,432
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,20.18,18.73,21.63,2,19.5,Local convex hull,NI,NI,156,431
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,962.5,NI,NI,1,1,NI,NI,NI,15,430
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,140,100,180,2,28.5,Minimum convex polygon,NI,NI,NI,15
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,962,NI,NI,NI,NI,NI,NI,NI,NI,16
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,170,NI,NI,1,42,NI,NI,NI,NI,17
+Atelidae,Ateles,Central_American_Spider_Monkey,Ateles_geoffroyi,Ateles_geoffroyi,158,NI,NI,NI,NI,NI,NI,NI,NI,18
+Atelidae,Ateles,Variegated_Spider_Monkey,Ateles_hybridus,Ateles_hybridus,40,NI,NI,1,26,NI,NI,NI,NI,19
+Atelidae,Ateles,Variegated_Spider_Monkey,Ateles_hybridus,Ateles_hybridus,70,NI,NI,1,18,NI,NI,NI,NI,20
+Atelidae,Ateles,White_whiskered_Spider_Monkey,Ateles_marginatus,Ateles_marginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atelidae,Ateles,Red_faced_Black_Spider_Monkey,Ateles_paniscus,Ateles_paniscus,255,NI,NI,1,18,NI,NI,NI,26,21
+Indriidae,Avahi,Betsileo_Woolly_Lemur,Avahi_betsileo,Avahi_betsileo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indriidae,Avahi,Bemaraha_Woolly_Lemur,Avahi_cleesei,Avahi_cleesei,2,NI,NI,NI,NI,NI,NI,NI,NI,278
+Indriidae,Avahi,Eastern_Woolly_Lemur,Avahi_laniger,Avahi_laniger,1.5,1,2,NI,NI,NI,NI,NI,NI,439
+Indriidae,Avahi,Southern_Woolly_Lemur,Avahi_meridionalis,Avahi_meridionalis,5.72,4.59,7.86,4,NI,NI,NI,NI,NI,443
+Indriidae,Avahi,Masoala_Woolly_Lemur,Avahi_mooreorum,Avahi_mooreorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indriidae,Avahi,Western_Woolly_Lemur,Avahi_occidentalis,Avahi_occidentalis,0.95,NI,NI,4,NI,NI,NI,NI,NI,444
+Indriidae,Avahi,Peyrieras_s_Woolly_Lemur,Avahi_peyrierasi,Avahi_peyrierasi,1,NI,NI,NI,NI,NI,NI,NI,NI,22
+Indriidae,Avahi,Manombo_Woolly_Lemur,Avahi_ramanantsoavanai,Avahi_ramanantsoavanai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indriidae,Avahi,Sambirano_Woolly_Lemur,Avahi_unicolor,Avahi_unicolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Atelidae,Brachyteles,Southern_Muriqui,Brachyteles_arachnoides,Brachyteles_arachnoides,340,NI,NI,NI,NI,NI,NI,NI,NI,452
+Atelidae,Brachyteles,Southern_Muriqui,Brachyteles_arachnoides,Brachyteles_arachnoides,70,NI,NI,1,7,Grid cell approach,NI,NI,10,453
+Atelidae,Brachyteles,Northern_Muriqui,Brachyteles_hypoxanthus,Brachyteles_hypoxanthus,309,NI,NI,1,57-63,Grid cell approach,NI,NI,11,450
+Atelidae,Brachyteles,Northern_Muriqui,Brachyteles_hypoxanthus,Brachyteles_hypoxanthus,168,NI,NI,1,23-27,Grid cell approach,NI,NI,14,451
+Pitheciidae,Cacajao,Ayres_Black_Uakari,NA,Cacajao_ayresi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Cacajao,Bald_Uacari,Cacajao_calvus,Cacajao_calvus,493,NI,NI,1,NI,NI,NI,NI,12,212
+Pitheciidae,Cacajao,Bald_Uacari,Cacajao_calvus,Cacajao_calvus,3000,NI,NI,NI,NI,NI,NI,NI,NI,456
+Pitheciidae,Cacajao,Black_headed_Uacari,NA,Cacajao_hosomi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Cacajao,Black_headed_Uacari,Cacajao_melanocephalus,Cacajao_melanocephalus,500,20,3000,NI,20-30,NI,NI,NI,NI,410
+Pitheciidae,Cacajao,Spix_s_Black_headed_Uacari,Cacajao_ouakary,NA,500,NI,NI,NI,NI,NI,NI,NI,NI,406
+Callitrichidae,Callibella,Black_crowned_Dwarf_Marmoset,Callibella_humilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Callicebus,Blond_Titi,Callicebus_barbarabrownae,Callicebus_barbarabrownae,50,NI,NI,NI,NI,NI,NI,NI,NI,460
+Pitheciidae,Callicebus,Coimbra_Filho_s_Titi,Callicebus_coimbrai,Callicebus_coimbrai,10,NI,NI,NI,NI,NI,NI,NI,NI,462
+Pitheciidae,Callicebus,Southern_Bahian_Titi,Callicebus_melanochir,Callicebus_melanochir,22,NI,NI,1,4,Grid cell approach,NI,NI,NI,463
+Pitheciidae,Callicebus,Southern_Bahian_Titi,Callicebus_melanochir,Callicebus_melanochir,24,NI,NI,NI,NI,NI,NI,NI,NI,23
+Pitheciidae,Callicebus,Black_fronted_Titi,Callicebus_nigrifrons,Callicebus_nigrifrons,34.5,21,48,NI,NI,NI,NI,NI,NI,465
+Pitheciidae,Callicebus,Masked_Titi,Callicebus_personatus,Callicebus_personatus,11.5,10.7,12.3,2,5,NI,NI,NI,5,24
+Callitrichidae,Callimico,Goeldi_s_Monkey*,Callimico_goeldii,Callimico_goeldii,150,NI,NI,1,NI,NI,NI,NI,NI,468
+Callitrichidae,Callimico,Goeldi_s_Monkey*,Callimico_goeldii,Callimico_goeldii,59,NI,NI,1,07-sep,Minimum convex polygon,NI,NI,NI,470
+Callitrichidae,Callimico,Goeldi_s_Monkey*,Callimico_goeldii,Callimico_goeldii,47.5,45,50,1,8,NI,NI,NI,6,25
+Callitrichidae,Callithrix,Buffy_tufted_ear_Marmoset,Callithrix_aurita,Callithrix_aurita,11,NI,NI,1,06-ago,NI,NI,NI,NI,477
+Callitrichidae,Callithrix,Buffy_tufted_ear_Marmoset,Callithrix_aurita,Callithrix_aurita,16.5,NI,NI,NI,NI,NI,NI,NI,NI,476
+Callitrichidae,Callithrix,Buffy_tufted_ear_Marmoset,Callithrix_aurita,Callithrix_aurita,35.3,NI,NI,NI,NI,NI,NI,NI,NI,474
+Callitrichidae,Callithrix,Buffy_tufted_ear_Marmoset,Callithrix_aurita,Callithrix_aurita,30.9,NI,NI,NI,NI,NI,NI,NI,NI,475
+Callitrichidae,Callithrix,Buffy_headed_Marmoset,Callithrix_flaviceps,Callithrix_flaviceps,35.5,NI,NI,1,13,NI,NI,NI,NI,478
+Callitrichidae,Callithrix,Geoffroy_s_Tufted_ear_Marmoset,Callithrix_geoffroyi,Callithrix_geoffroyi,23.3,NI,NI,1,5,Grid cell approach,NI,NI,12,479
+Callitrichidae,Callithrix,Common_Marmoset,Callithrix_jacchus,Callithrix_jacchus,2.2,NI,NI,1,NI,NI,NI,NI,NI,482
+Callitrichidae,Callithrix,Common_Marmoset,Callithrix_jacchus,Callithrix_jacchus,5,NI,NI,1,05-oct,Grid cell approach,NI,NI,NI,483
+Callitrichidae,Callithrix,Wied_s_Black_tufted_ear_Marmoset,Callithrix_kuhlii,Callithrix_kuhlii,38.9,NI,NI,6,4.2,Minimum convex polygon,NI,NI,NI,27
+Callitrichidae,Callithrix,Wied_s_Black_tufted_ear_Marmoset,Callithrix_kuhlii,Callithrix_kuhlii,12,NI,NI,NI,NI,NI,NI,NI,NI,28
+Callitrichidae,Callithrix,Wied_s_Black_tufted_ear_Marmoset,Callithrix_kuhlii,Callithrix_kuhlii,11,10,12,NI,NI,NI,NI,NI,NI,487
+Callitrichidae,Callithrix,Black_tufted_ear_Marmoset,Callithrix_penicillata,Callithrix_penicillata,12.8,8.25,18,3,NI,NI,NI,NI,NI,491
+Callitrichidae,Callithrix,Black_tufted_ear_Marmoset,Callithrix_penicillata,Callithrix_penicillata,3.5,NI,NI,1,NI,NI,NI,NI,NI,490
+Callitrichidae,Callithrix,Black_tufted_ear_Marmoset,Callithrix_penicillata,Callithrix_penicillata,6,NI,NI,1,NI,NI,NI,NI,NI,492
+Tarsiidae,Carlito,Philippine_Tarsier,Carlito_syrichta,Carlito_syrichta,4.403,0.89,9.13,NI,10,Minimum convex polygon,"3,685",Kernel density estimators,8,541
+Callitrichidae,Cebuella,Eastern_Pygmy_Marmoset,NA,Cebuella_niveiventris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Cebuella,Pygmy_Marmoset,Cebuella_pygmaea,Cebuella_pygmaea,0.34,NI,NI,NI,NI,NI,NI,NI,NI,291
+Callitrichidae,Cebuella,Pygmy_Marmoset,Cebuella_pygmaea,Cebuella_pygmaea,0.9,NI,NI,NI,NI,NI,NI,NI,NI,494
+Callitrichidae,Cebuella,Pygmy_Marmoset,Cebuella_pygmaea,Cebuella_pygmaea,0.75,0.4,1.09,6,5.66,Adaptative minimum convex polygon,NI,NI,NI,29
+Cebidae,Cebus,Ecuadorian_White_fronted_Capuchin,Cebus_aequatorialis,Cebus_aequatorialis,288,NI,NI,2,NI,NI,NI,NI,NI,489
+Cebidae,Cebus,Humboldt_s_White_fronted_Capuchin,Cebus_albifrons,Cebus_albifrons,115,110,120,1,35,NI,NI,NI,NI,496
+Cebidae,Cebus,Humboldt_s_White_fronted_Capuchin,Cebus_albifrons,Cebus_albifrons,240,NI,NI,1,05-ago,Other,NI,NI,12,1187
+Cebidae,Cebus,Venezuelan_Brown_Capuchin,Cebus_brunneus,Cebus_brunneus,84,NI,NI,1,10,NI,NI,NI,NI,500
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,59,NI,NI,NI,NI,NI,NI,NI,NI,30
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,46.05,6.1,86,2,NI,NI,NI,NI,NI,31
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,36,32,40,1,27-30,NI,NI,NI,NI,32
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,46.35,26.5,66.2,2,NI,NI,NI,NI,NI,33
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,72.5,45,100,2,14.75,NI,NI,NI,5,34
+Cebidae,Cebus,Colombian_White_faced_Capuchin,Cebus_capucinus,Cebus_capucinus,361,276,440,3,27.8,Other,NI,NI,32,35
+Cebidae,Cebus,Río_Cesar_White_fronted_Capuchin,Cebus_cesarae,Cebus_cesarae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Cebus,Shock_headed_Capuchin,Cebus_cuscinus,Cebus_cuscinus,150,NI,NI,NI,NI,NI,NI,NI,NI,504
+Cebidae,Cebus,Panamanian_White_faced_Capuchin,Cebus_imitator,Cebus_imitator,134.4,NI,NI,NI,NI,NI,NI,NI,NI,507
+Cebidae,Cebus,Ka_apor_Capuchin,Cebus_kaapori,Cebus_kaapori,62.4,NI,NI,1,06-sep,Grid cell approach,NI,NI,6,36
+Cebidae,Cebus,Sierra_de_Perijá_White_fronted_Capuchin,Cebus_leucocephalus,Cebus_leucocephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Cebus,Santa_Marta_White_fronted_Capuchin,Cebus_malitiosus,Cebus_malitiosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Cebus,Guianan_Weeper_Capuchin,Cebus_olivaceus,Cebus_olivaceus,257,NI,NI,1,20,Grid cell approach,NI,NI,14,1186
+Cebidae,Cebus,Spix_s_White_fronted_Capuchin,Cebus_unicolor,Cebus_unicolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Cebus,Varied_White_fronted_Capuchin,Cebus_versicolor,Cebus_versicolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Cebus,Marañón_White_fronted_Capuchin,Cebus_yuracus,Cebus_yuracus,240,NI,NI,NI,NI,NI,NI,NI,NI,504
+Tarsiidae,Cephalopachus,Western_Tarsier,Cephalopachus_bancanus,Cephalopachus_bancanus,1.5,NI,NI,NI,NI,NI,NI,NI,NI,1205
+Tarsiidae,Cephalopachus,Western_Tarsier,Cephalopachus_bancanus,Cephalopachus_bancanus,8.5,7,10,2,4,NI,NI,NI,1,39
+Cercopithecidae,Cercocebus,Agile_Mangabey,Cercocebus_agilis,Cercocebus_agilis,303,NI,NI,NI,NI,NI,NI,NI,NI,520
+Cercopithecidae,Cercocebus,Agile_Mangabey,Cercocebus_agilis,Cercocebus_agilis,200,NI,NI,1,14-16,NI,NI,NI,12,521
+Cercopithecidae,Cercocebus,Sooty_Mangabey,Cercocebus_atys,Cercocebus_atys,500,400,600,1,44,NI,NI,NI,NI,962
+Cercopithecidae,Cercocebus,Golden_bellied_Mangabey,Cercocebus_chrysogaster,Cercocebus_chrysogaster,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Cercocebus,Tana_River_Mangabey,Cercocebus_galeritus,Cercocebus_galeritus,59.7,29.7,101,4,32.1,Minimum convex polygon,NI,NI,12,525
+Cercopithecidae,Cercocebus,White_naped_Mangabey,Cercocebus_lunulatus,Cercocebus_lunulatus,200,NI,NI,NI,NI,NI,NI,NI,NI,517
+Cercopithecidae,Cercocebus,Sanje_River_Mangabey,Cercocebus_sanjei,Cercocebus_sanjei,240,NI,NI,NI,NI,NI,NI,NI,NI,528
+Cercopithecidae,Cercocebus,Red_capped_Mangabey,Cercocebus_torquatus,Cercocebus_torquatus,247.4,NI,NI,1,25,Other,NI,NI,15,530
+Cercopithecidae,Cercopithecus,Syke_s_Monkey,Cercopithecus_albogularis,Cercopithecus_albogularis,14.25,NI,NI,NI,NI,NI,NI,NI,NI,518
+Cercopithecidae,Cercopithecus,Red_tailed_Monkey,Cercopithecus_ascanius,Cercopithecus_ascanius,22.5,19,26,2,NI,NI,NI,NI,NI,532
+Cercopithecidae,Cercopithecus,Campbell_s_Monkey,Cercopithecus_campbelli,Cercopithecus_campbelli,72.375,64.25,80.5,2,jul-26,Minimum convex polygon,59.5ha,Grid cell approach,17,535
+Cercopithecidae,Cercopithecus,Campbell_s_Monkey,Cercopithecus_campbelli,Cercopithecus_campbelli,40,NI,NI,1,6,NI,NI,NI,NI,962
+Cercopithecidae,Cercopithecus,Moustached_Monkey,Cercopithecus_cephus,Cercopithecus_cephus,44.5,43,46,1,15,Grid cell approach,NI,NI,4,40
+Cercopithecidae,Cercopithecus,Moustached_Monkey,Cercopithecus_cephus,Cercopithecus_cephus,87.5,75,100,1,NI,NI,NI,NI,17,41
+Cercopithecidae,Cercopithecus,Dent_s_Monkey,Cercopithecus_denti,Cercopithecus_denti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Cercopithecus,Diana_Monkey,Cercopithecus_diana,Cercopithecus_diana,63,NI,NI,NI,NI,NI,NI,NI,NI,540
+Cercopithecidae,Cercopithecus,Diana_Monkey,Cercopithecus_diana,Cercopithecus_diana,93,NI,NI,1,16,NI,NI,NI,NI,962
+Cercopithecidae,Cercopithecus,Silver_Monkey,Cercopithecus_doggetti,Cercopithecus_doggetti,28.4,10,1,1,NI,NI,NI,NI,NI,247
+Cercopithecidae,Cercopithecus,Dryas_Monkey,Cercopithecus_dryas,Cercopithecus_dryas,4.9,NI,NI,NI,NI,NI,NI,NI,NI,42
+Cercopithecidae,Cercopithecus,Red_bellied_Monkey,Cercopithecus_erythrogaster,Cercopithecus_erythrogaster,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Cercopithecus,Red_eared_Monkey,Cercopithecus_erythrotis,Cercopithecus_erythrotis,31.5,NI,NI,NI,NI,NI,NI,NI,NI,43
+Cercopithecidae,Cercopithecus,Owl_faced_Monkey,Cercopithecus_hamlyni,Cercopithecus_hamlyni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Cercopithecus,Virungas_Golden_Monkey,Cercopithecus_kandti,Cercopithecus_kandti,67,NI,NI,1,41,NI,NI,NI,NI,551
+Cercopithecidae,Cercopithecus,Lesula,Cercopithecus_lomamiensis,Cercopithecus_lomamiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Cercopithecus,Lowe_s_Monkey,Cercopithecus_lowei,Cercopithecus_lowei,14.5,NI,NI,NI,NI,NI,NI,NI,NI,555
+Cercopithecidae,Cercopithecus,Lowe_s_Monkey,Cercopithecus_lowei,Cercopithecus_lowei,11.5,NI,NI,NI,NI,NI,NI,NI,NI,556
+Cercopithecidae,Cercopithecus,Blue_Monkey,Cercopithecus_mitis,Cercopithecus_mitis,175,NI,NI,1,31,Grid cell approach,NI,NI,1,557
+Cercopithecidae,Cercopithecus,Mona_Monkey,Cercopithecus_mona,Cercopithecus_mona,3,NI,NI,NI,NI,NI,NI,NI,NI,43
+Cercopithecidae,Cercopithecus,De_Brazza_s_Monkey,Cercopithecus_neglectus,Cercopithecus_neglectus,7,NI,NI,NI,NI,NI,NI,NI,NI,371
+Cercopithecidae,Cercopithecus,Putty_nosed_Monkey,Cercopithecus_nictitans,Cercopithecus_nictitans,80.25,67.5,93,NI,NI,NI,NI,NI,NI,1155
+Cercopithecidae,Cercopithecus,Spot_nosed_Monkey,Cercopithecus_petaurista,Cercopithecus_petaurista,89.375,81,97.75,2,jul-26,Minimum convex polygon,68.75,Grid cell approach,17,535
+Cercopithecidae,Cercopithecus,Spot_nosed_Monkey,Cercopithecus_petaurista,Cercopithecus_petaurista,41,NI,NI,1,12,NI,NI,NI,NI,962
+Cercopithecidae,Cercopithecus,Crowned_Monkey,Cercopithecus_pogonias,Cercopithecus_pogonias,100,NI,NI,NI,NI,NI,NI,NI,NI,246
+Cercopithecidae,Cercopithecus,Roloway_Monkey,Cercopithecus_roloway,Cercopithecus_roloway,189,NI,NI,NI,NI,NI,NI,NI,NI,566
+Cercopithecidae,Cercopithecus,Sclater_s_Monkey,Cercopithecus_sclateri,Cercopithecus_sclateri,25,NI,NI,17,11,NI,NI,NI,12,44
+Cercopithecidae,Cercopithecus,Wolf_s_Monkey,Cercopithecus_wolfi,Cercopithecus_wolfi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus,Montagne_d_Ambre_Dwarf_Lemur,Cheirogaleus_andysabini,Cheirogaleus_andysabini,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus,Crossley_s_Dwarf_Lemur,Cheirogaleus_crossleyi,Cheirogaleus_crossleyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus,Lavasoa_Dwarf_lemur,Cheirogaleus_lavasoensis,Cheirogaleus_lavasoensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus,Greater_Dwarf_Lemur,Cheirogaleus_major,Cheirogaleus_major,4,NI,NI,1,5,NI,NI,NI,9,97
+Cheirogaleidae,Cheirogaleus,Greater_Dwarf_Lemur,Cheirogaleus_major,Cheirogaleus_major,2,NI,NI,NI,NI,NI,NI,NI,NI,277
+Cheirogaleidae,Cheirogaleus,Fat_tailed_Dwarf_Lemur,Cheirogaleus_medius,Cheirogaleus_medius,1.56,NI,NI,1,17,Minimum convex polygon,NI,NI,18,573
+Cheirogaleidae,Cheirogaleus,Lesser_Iron_gray_Dwarf_Lemur,Cheirogaleus_minusculus,Cheirogaleus_minusculus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus, Sheth's_Dwarf_Lemur,NA,Cheirogaleus_shethi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Cheirogaleus,Sibree_s_Dwarf_Lemur,Cheirogaleus_sibreei,Cheirogaleus_sibreei,6.4,3.2,9.6,NI,NI,NI,NI,NI,NI,574
+Cheirogaleidae,Cheirogaleus,Thomas_s_Dwarf_Lemur,Cheirogaleus_thomasi,Cheirogaleus_thomasi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Cheracebus,Yellow_handed_Titi,Cheracebus_lucifer,Cheracebus_lucifer,20,NI,NI,1,04-may,NI,NI,NI,12,576
+Pitheciidae,Cheracebus,White_chested_Titi,Cheracebus_lugens,Cheracebus_lugens,14.2,9,22,5,NI,NI,NI,NI,NI,578
+Pitheciidae,Cheracebus,Medem_s_Titi,Cheracebus_medemi,Cheracebus_medemi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Cheracebus,Rio_Purus_Titi,Cheracebus_purinus,Cheracebus_purinus,45,NI,NI,NI,NI,NI,NI,NI,12,579
+Pitheciidae,Cheracebus,Rio_Juruá_Collared_Titi,Cheracebus_regulus,Cheracebus_regulus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Cheracebus,White_collared_Titi,Cheracebus_torquatus,Cheracebus_torquatus,20,NI,NI,NI,NI,NI,NI,NI,NI,45
+Pitheciidae,Cheracebus,White_collared_Titi,Cheracebus_torquatus,Cheracebus_torquatus,22.25,NI,NI,1,04-may,NI,NI,NI,6,46
+Pitheciidae,Chiropotes,White_nosed_Bearded_Saki,Chiropotes_albinasus,Chiropotes_albinasus,210,80,350,3,NI,NI,NI,NI,NI,582
+Pitheciidae,Chiropotes,White_nosed_Bearded_Saki,Chiropotes_albinasus,Chiropotes_albinasus,1000,NI,NI,1,NI,NI,NI,NI,NI,585
+Pitheciidae,Chiropotes,Rio_Negro_Beared_Saki,Chiropotes_chiropotes,Chiropotes_chiropotes,142,NI,NI,1,13-17,Grid cell approach,NI,NI,15,584
+Pitheciidae,Chiropotes, Brown_backed_Bearded_Saki,NA,Chiropotes_israelita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Chiropotes,Guianan_Beared_Saki,Chiropotes_sagulatus,Chiropotes_sagulatus,507,350,742,3,NI,NI,NI,NI,NI,591
+Pitheciidae,Chiropotes,Black_Bearded_Saki,Chiropotes_satanas,Chiropotes_satanas,58,17,99,NI,NI,NI,NI,NI,NI,587
+Pitheciidae,Chiropotes,Uta_Hick_s_Bearded_Saki,Chiropotes_utahickae,Chiropotes_utahickae,100,NI,NI,1,24,NI,NI,NI,5,589
+Pitheciidae,Chiropotes,Uta_Hick_s_Bearded_Saki,Chiropotes_utahickae,Chiropotes_utahickae,57.5,NI,NI,1,23,NI,NI,NI,NI,590
+Cercopithecidae,Chlorocebus,Grivet_Monkey,Chlorocebus_aethiops,Chlorocebus_aethiops,24.5,19.5,29.4,2,NI,NI,NI,NI,NI,593
+Cercopithecidae,Chlorocebus,Grivet_Monkey,Chlorocebus_aethiops,Chlorocebus_aethiops,178.4,NI,NI,1,18-28,NI,NI,NI,15,47
+Cercopithecidae,Chlorocebus,Grivet_Monkey,Chlorocebus_aethiops,Chlorocebus_aethiops,12,NI,NI,1,21,NI,NI,NI,NI,1184
+Cercopithecidae,Chlorocebus,Grivet_Monkey,Chlorocebus_aethiops,Chlorocebus_aethiops,41.82,NI,NI,4,27.95,NI,NI,NI,21,48
+Cercopithecidae,Chlorocebus,Grivet_Monkey,Chlorocebus_aethiops,Chlorocebus_aethiops,14.8,5.2,24.9,6,12.7,Grid cell approach,NI,NI,27,49
+Cercopithecidae,Chlorocebus,Malbrouck_Monkey,Chlorocebus_cynosuros,Chlorocebus_cynosuros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Chlorocebus,Bale_Monkey,Chlorocebus_djamdjamensis,Chlorocebus_djamdjamensis,15.2,12.3,18.1,2,NI,NI,NI,NI,NI,596
+Cercopithecidae,Chlorocebus,Vervet_Monkey,Chlorocebus_pygerythrus,Chlorocebus_pygerythrus,25,NI,NI,2,NI,NI,NI,NI,NI,600
+Cercopithecidae,Chlorocebus,Green_Monkey,Chlorocebus_sabaeus,Chlorocebus_sabaeus,160.5,157,164,2,NI,NI,NI,NI,NI,601
+Cercopithecidae,Chlorocebus,Tantalus_Monkey,Chlorocebus_tantalus,Chlorocebus_tantalus,66.5,43,90,1,NI,NI,NI,NI,NI,605
+Cercopithecidae,Colobus,Angolan_Colobus,Colobus_angolensis,Colobus_angolensis,371,NI,NI,1,NI,NI,NI,NI,NI,608
+Cercopithecidae,Colobus,Angolan_Colobus,Colobus_angolensis,Colobus_angolensis,2440,NI,NI,1,300,Kernel density estimators,2070,Minimum convex polygon,12,607
+Cercopithecidae,Colobus,Guereza,Colobus_guereza,Colobus_guereza,15.45,12,19.75,5,11,Grid cell approach,NI,NI,12,1208
+Cercopithecidae,Colobus,Guereza,Colobus_guereza,Colobus_guereza,28,NI,NI,1,NI,NI,NI,NI,NI,610
+Cercopithecidae,Colobus,King_Colobus,Colobus_polykomos,Colobus_polykomos,40.5,35,46,2,9.5,NI,NI,NI,NI,962
+Cercopithecidae,Colobus,King_Colobus,Colobus_polykomos,Colobus_polykomos,77.4,71.5,83.3,2,15,Grid cell approach,NI,NI,48,886
+Cercopithecidae,Colobus,Black_Colobus,Colobus_satanas,Colobus_satanas,573,NI,NI,NI,NI,NI,NI,NI,NI,613
+Cercopithecidae,Colobus,White_thighed_Colobus,Colobus_vellerosus,Colobus_vellerosus,48,NI,NI,NI,NI,NI,NI,NI,NI,616
+Daubentoniidae,Daubentonia,Aye_aye,Daubentonia_madagascariensis,Daubentonia_madagascariensis,102.95,31.7,214.6,NI,4 ind,Minimum convex polygon,NI,NI,24,50
+Cercopithecidae,Erythrocebus,Patas_Monkey,Erythrocebus_patas,Erythrocebus_patas,2851,NI,NI,1,20-51,Grid cell approach,NI,NI,24,622
+Cercopithecidae,Erythrocebus,Patas_Monkey,Erythrocebus_patas,Erythrocebus_patas,5200,NI,NI,1,31,NI,NI,NI,8,1209
+Cercopithecidae,Erythrocebus,Heuglin's_Patas_Monkey,NA,Erythrocebus_poliophaeus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lemuridae,Eulemur,White_fronted_Brown_Lemur,Eulemur_albifrons,Eulemur_albifrons,13.1,NI,NI,1,07-nov,NI,NI,NI,13,51
+Lemuridae,Eulemur,White_fronted_Brown_Lemur,Eulemur_albifrons,Eulemur_albifrons,7.3,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Eulemur,White_collared_Brown_Lemur,Eulemur_cinereiceps,Eulemur_cinereiceps,56.65,54.9,58.4,2,8,NI,NI,NI,11,52
+Lemuridae,Eulemur,White_collared_Brown_Lemur,Eulemur_cinereiceps,Eulemur_cinereiceps,49.4,12,71.8,3,6.3,Minimum convex polygon,NI,NI,19,624
+Lemuridae,Eulemur,Red_collared_Brown_Lemur,Eulemur_collaris,Eulemur_collaris,58.65,20.5,96.8,NI,NI,NI,NI,NI,NI,53
+Lemuridae,Eulemur,Red_collared_Brown_Lemur,Eulemur_collaris,Eulemur_collaris,74.6,20.7,98.9,4,7.5,Minimum convex polygon,NI,NI,11,54
+Lemuridae,Eulemur,Crowned_Lemur,Eulemur_coronatus,Eulemur_coronatus,7.53,NI,NI,NI,NI,NI,NI,NI,NI,628
+Lemuridae,Eulemur,Crowned_Lemur,Eulemur_coronatus,Eulemur_coronatus,5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Eulemur,Blue_eyed_Black_Lemur,Eulemur_flavifrons,Eulemur_flavifrons,5.28,0.85,25.21,5,7.85,Minimum convex polygon,NI,Adaptative kernel,18,632
+Lemuridae,Eulemur,Brown_Lemur,Eulemur_fulvus,Eulemur_fulvus,16.2,NI,NI,NI,NI,NI,NI,NI,NI,635
+Lemuridae,Eulemur,Brown_Lemur,Eulemur_fulvus,Eulemur_fulvus,5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Eulemur,Black_Lemur,Eulemur_macaco,Eulemur_macaco,19.1,14.4,23.8,3,NI,NI,NI,NI,NI,637
+Lemuridae,Eulemur,Black_Lemur,Eulemur_macaco,Eulemur_macaco,3,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Eulemur,Mongoose_Lemur,Eulemur_mongoz,Eulemur_mongoz,2.85,2.8,2.9,2,13,Grid cell approach,NI,NI,10,55
+Lemuridae,Eulemur,Mongoose_Lemur,Eulemur_mongoz,Eulemur_mongoz,5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Eulemur,Red_bellied_Lemur,Eulemur_rubriventer,Eulemur_rubriventer,19,19,19,2,3,Minimum convex polygon,NI,NI,12,56
+Lemuridae,Eulemur,Red_bellied_Lemur,Eulemur_rubriventer,Eulemur_rubriventer,13.7,NI,NI,1,7,Minimum convex polygon,NI,NI,12,1185
+Lemuridae,Eulemur,Red_fronted_Brown_Lemur,Eulemur_rufifrons,Eulemur_rufifrons,22.06,NI,NI,1,8,Minimum convex polygon,NI,NI,12,1185
+Lemuridae,Eulemur,Red_fronted_Brown_Lemur,Eulemur_rufifrons,Eulemur_rufifrons,84.37,51.95,142.5,4,14.5,Minimum convex polygon,,Adaptative kernel,24,1
+Lemuridae,Eulemur,Rufous_Brown_Lemur,Eulemur_rufus,Eulemur_rufus,97.5,95,100,2,8,Minimum convex polygon,NI,NI,12,56
+Lemuridae,Eulemur,Rufous_Brown_Lemur,Eulemur_rufus,Eulemur_rufus,5,NI,NI,NI,NI,NI,NI,NI,NI,57
+Lemuridae,Eulemur,Sanford_s_Brown_Lemur,Eulemur_sanfordi,Eulemur_sanfordi,14,NI,NI,NI,NI,NI,NI,NI,NI,642
+Lemuridae,Eulemur,Sanford_s_Brown_Lemur,Eulemur_sanfordi,Eulemur_sanfordi,7,NI,NI,NI,NI,NI,NI,NI,NI,58
+Galagidae,Euoticus,Southern_Needle_clawed_Galago,Euoticus_elegantulus,Euoticus_elegantulus,6.7,NI,NI,NI,NI,NI,NI,NI,NI,59
+Galagidae,Euoticus,Northern_Needle_clawed_Galago,Euoticus_pallidus,Euoticus_pallidus,2.5,1,4,NI,NI,NI,NI,NI,NI,643
+Galagidae,Galago,Somali_Lesser_Galago,Galago_gallarum,Galago_gallarum,2,1,3,NI,NI,NI,NI,NI,NI,644
+Galagidae,Galago,Spectacled_Lesser_Galago,Galago_matschiei,Galago_matschiei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Galago,Southern_Lesser_Galago,Galago_moholi,Galago_moholi,2.8,NI,NI,NI,NI,NI,NI,NI,12,647
+Galagidae,Galago,Southern_Lesser_Galago,Galago_moholi,Galago_moholi,9.3,4.6,14,NI,NI,NI,NI,NI,NI,648
+Galagidae,Galago,Northern_Lesser_Galago,Galago_senegalensis,Galago_senegalensis,6.5,NI,NI,NI,NI,NI,NI,NI,NI,60
+Galagidae,Galago,Northern_Lesser_Galago,Galago_senegalensis,Galago_senegalensis,12,NI,NI,NI,NI,NI,NI,NI,NI,36
+Galagidae,Galago,Northern_Lesser_Galago,Galago_senegalensis,Galago_senegalensis,6,NI,NI,NI,NI,NI,NI,NI,NI,61
+Galagidae,Galagoides,Kenya_Coast_Dwarf_Galago,Galagoides_cocos,Galagoides_cocos,1.95,1.3,2.6,NI,NI,NI,NI,NI,NI,64
+Galagidae,Galagoides,Demidoff_s_Dwarf_Galago,Galagoides_demidovii,Galagoides_demidovii,1.6,0.5,2.7,NI,NI,NI,NI,NI,NI,422
+Galagidae,Galagoides,Angolan_Dwarf_Galago,NA,Galagoides_kumbirensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Galagoides,Mozambique_Dwarf_Galago,Galagoides_granti,Galagoides_granti,2.5,NI,NI,NI,NI,NI,NI,NI,NI,1177
+Galagidae,Galagoides,Mountain_Dwarf_Galago,Galagoides_orinus,Galagoides_orinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Galagoides,Rondo_Dwarf_Galago,Galagoides_rondoensis,Galagoides_rondoensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Galagoides,Thomas_s_Dwarf_Galago,Galagoides_thomasi,Galagoides_thomasi,1.6,NI,NI,NI,NI,Minimum convex polygon,NI,NI,NI,190
+Galagidae,Galagoides,Tanzania_Coast_Dwarf_Galago,Galagoides_zanzibaricus,Galagoides_zanzibaricus,2.2,NI,NI,NI,NI,NI,NI,NI,NI,63
+Galagidae,Galagoides,Tanzania_Coast_Dwarf_Galago,Galagoides_zanzibaricus,Galagoides_zanzibaricus,2.1,0.9,3.1,9,3.1,NI,NI,NI,19,64
+Hominidae,Gorilla,Eastern_Gorilla,Gorilla_beringei,Gorilla_beringei,3060,2110,4010,NI,NI,NI,NI,NI,NI,660
+Hominidae,Gorilla,Western_Gorilla,Gorilla_gorilla,Gorilla_gorilla,1100,NI,NI,1,20,Grid cell approach,NI,NI,38,663
+Hominidae,Gorilla,Western_Gorilla,Gorilla_gorilla,Gorilla_gorilla,2170,NI,NI,1,05-nov,Minimum convex polygon,NI,NI,120,664
+Hominidae,Gorilla,Western_Gorilla,Gorilla_gorilla,Gorilla_gorilla,617.5,445,790,2,12.25,NI,NI,NI,23,65
+Lemuridae,Hapalemur,Lac_Alaotra_Bamboo_Lemur,Hapalemur_alaotrensis,Hapalemur_alaotrensis,2,NI,NI,NI,NI,NI,NI,NI,NI,666
+Lemuridae,Hapalemur,Lac_Alaotra_Bamboo_Lemur,Hapalemur_alaotrensis,Hapalemur_alaotrensis,4.5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lemuridae,Hapalemur,Golden_Bamboo_Lemur,Hapalemur_aureus,Hapalemur_aureus,26,NI,NI,2,3.75,NI,NI,NI,24,668
+Lemuridae,Hapalemur,Gray_Bamboo_Lemur,Hapalemur_griseus,Hapalemur_griseus,20,NI,NI,1,6,NI,NI,NI,13,670
+Lemuridae,Hapalemur,Gray_Bamboo_Lemur,Hapalemur_griseus,Hapalemur_griseus,15,NI,NI,2,5.5,NI,NI,NI,24,668
+Lemuridae,Hapalemur,Southern_Bamboo_Lemur,Hapalemur_meridionalis,Hapalemur_meridionalis,13.27,6.6,18.39,4,"5,1",Kernel density estimators,NI,NI,12,66
+Lemuridae,Hapalemur,Northern_Bamboo_Lemur,Hapalemur_occidentalis,Hapalemur_occidentalis,26,NI,NI,NI,NI,NI,NI,NI,NI,67
+Hylobatidae,Hoolock,Western_Hoolock_Gibbon,Hoolock_hoolock,Hoolock_hoolock,22.5,15,30,NI,NI,NI,NI,NI,NI,675
+Hylobatidae,Hoolock,Western_Hoolock_Gibbon,Hoolock_hoolock,Hoolock_hoolock,300,NI,NI,NI,NI,NI,NI,NI,NI,809
+Hylobatidae,Hoolock,Eastern_Hoolock_Gibbon,Hoolock_leuconedys,Hoolock_leuconedys,93,NI,NI,1,3,Minimum convex polygon,NI,NI,14,68
+Hylobatidae,Hoolock,Eastern_Hoolock_Gibbon,Hoolock_leuconedys,Hoolock_leuconedys,121.5,93,150,2,3.5,NI,NI,NI,26,69
+Hylobatidae,Hoolock,Skywalker_Hoolock_Gibbon,NA,Hoolock_tianxing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hylobatidae,Hylobates,Abbott_s_Gray_Gibbon,Hylobates_abbotti,Hylobates_abbotti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hylobatidae,Hylobates,Agile_Gibbon,Hylobates_agilis,Hylobates_agilis,29,NI,NI,3,NI,NI,NI,NI,NI,678
+Hylobatidae,Hylobates,Bornean_White_bearded_Gibbon,Hylobates_albibarbis,Hylobates_albibarbis,53,NI,NI,12,4.05,NI,NI,NI,4,680
+Hylobatidae,Hylobates,Bornean_White_bearded_Gibbon,Hylobates_albibarbis,Hylobates_albibarbis,26,NI,NI,4,NI,NI,NI,NI,NI,677
+Hylobatidae,Hylobates,East_Bornean_Gray_Gibbon,Hylobates_funereus,Hylobates_funereus,38,NI,NI,NI,NI,NI,NI,NI,NI,1123
+Hylobatidae,Hylobates,Kloss_s_Gibbon,Hylobates_klossii,Hylobates_klossii,33.3,31,35,3,03-may,Grid cell approach,NI,NI,24,684
+Hylobatidae,Hylobates,Lar_Gibbon,Hylobates_lar,Hylobates_lar,55,53,59,2,4,NI,NI,NI,NI,688
+Hylobatidae,Hylobates,Lar_Gibbon,Hylobates_lar,Hylobates_lar,41,NI,NI,NI,NI,NI,NI,NI,NI,686
+Hylobatidae,Hylobates,Lar_Gibbon,Hylobates_lar,Hylobates_lar,20,NI,NI,1,05-sep,NI,NI,NI,216,689
+Hylobatidae,Hylobates,Moloch_Gibbon,Hylobates_moloch,Hylobates_moloch,17,NI,NI,NI,NI,NI,NI,NI,NI,691
+Hylobatidae,Hylobates,Müller_s_Gibbon,Hylobates_muelleri,Hylobates_muelleri,44,NI,NI,NI,NI,NI,NI,NI,NI,692
+Hylobatidae,Hylobates,Müller_s_Gibbon,Hylobates_muelleri,Hylobates_muelleri,46,NI,NI,NI,NI,NI,NI,NI,NI,1123
+Hylobatidae,Hylobates,Pileated_Gibbon,Hylobates_pileatus,Hylobates_pileatus,36,NI,NI,NI,NI,NI,NI,NI,NI,693
+Indriidae,Indri,Indri,Indri_indri,Indri_indri,18,NI,NI,NI,NI,NI,NI,NI,NI,694
+Indriidae,Indri,Indri,Indri_indri,Indri_indri,12,NI,NI,NI,NI,NI,NI,NI,NI,277
+Atelidae,Lagothrix,Gray_Woolly_Monkey,Lagothrix_cana,Lagothrix_cana,1021,NI,NI,1,39-41,Grid cell approach,NI,NI,16,700
+Atelidae,Lagothrix,Gray_Woolly_Monkey,Lagothrix_cana,Lagothrix_cana,1200,NI,NI,NI,NI,NI,NI,NI,NI,888
+Atelidae,Lagothrix,Peruvian_Yellow_tailed_Woolly_Monkey,Lagothrix_flavicauda,Lagothrix_flavicauda,114.5,82,147,2,NI,NI,NI,NI,NI,697
+Atelidae,Lagothrix,Humboldt_s_Woolly_Monkey,Lagothrix_lagothricha,Lagothrix_lagothricha,440,NI,NI,NI,NI,NI,NI,NI,NI,703
+Atelidae,Lagothrix,Humboldt_s_Woolly_Monkey,Lagothrix_lagothricha,Lagothrix_lagothricha,760,NI,NI,1,24,Grid cell approach,NI,NI,24,702
+Atelidae,Lagothrix,Humboldt_s_Woolly_Monkey,Lagothrix_lagothricha,Lagothrix_lagothricha,195,NI,NI,NI,NI,NI,NI,NI,NI,704
+Atelidae,Lagothrix,Poeppig_s_Woolly_Monkey,Lagothrix_poeppigii,Lagothrix_poeppigii,116,NI,NI,2,NI,NI,NI,NI,NI,709
+Atelidae,Lagothrix,Poeppig_s_Woolly_Monkey,Lagothrix_poeppigii,Lagothrix_poeppigii,350,NI,NI,NI,NI,NI,NI,NI,NI,710
+Atelidae,Lagotrix,Colombian_Woolly_Monkey,Lagotrix_lugens,Lagotrix_lugens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lemuridae,Lemur,Ring_tailed_Lemur,Lemur_catta,Lemur_catta,25.5,16,35,6,NI,NI,NI,NI,NI,712
+Lemuridae,Lemur,Ring_tailed_Lemur,Lemur_catta,Lemur_catta,5.7,NI,NI,1,20,NI,NI,NI,NI,79
+Callitrichidae,Leontocebus,Cruz_Lima’s_Saddle_back_Tamarin,Leontocebus_cruzlimai,Leontocebus_cruzlimai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Leontocebus,Spix_s_Saddle_back_Tamarin,Leontocebus_fuscicollis,Leontocebus_fuscicollis,145,NI,NI,NI,NI,NI,NI,NI,NI,1158
+Callitrichidae,Leontocebus,Spix_s_Saddle_back_Tamarin,Leontocebus_fuscicollis,Leontocebus_fuscicollis,149,NI,NI,NI,NI,NI,NI,NI,NI,70
+Callitrichidae,Leontocebus,Spix_s_Saddle_back_Tamarin,Leontocebus_fuscicollis,Leontocebus_fuscicollis,40,NI,NI,1,7,NI,NI,NI,3,71
+Callitrichidae,Leontocebus,Spix_s_Saddle_back_Tamarin,Leontocebus_fuscicollis,Leontocebus_fuscicollis,35.5,NI,NI,1,5,Minimum convex polygon,25.5,Kernel density estimators,2,72
+Callitrichidae,Leontocebus,Spix_s_Saddle_back_Tamarin,Leontocebus_fuscicollis,Leontocebus_fuscicollis,21,NI,NI,NI,NI,NI,NI,NI,NI,63
+Callitrichidae,Leontocebus,Lesson_s_Saddle_back_Tamarin,Leontocebus_fuscus,Leontocebus_fuscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Leontocebus,Illiger_s_Saddle_back_Tamarin,Leontocebus_illigeri,Leontocebus_illigeri,16.1,15.7,16.5,1,02-oct,NI,NI,NI,15,715
+Callitrichidae,Leontocebus,Red_mantled_Saddle_back_Tamarin,Leontocebus_lagonotus,Leontocebus_lagonotus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Leontocebus,Andean_Saddle_back_Tamarin,Leontocebus_leucogenys,Leontocebus_leucogenys,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Leontocebus,Black_mantled_tamarin,Leontocebus_nigricollis,Leontocebus_nigricollis,49,41.7,56.2,1,07-sep,Other,NI,NI,8,717
+Callitrichidae,Leontocebus,Geoffroy_s_Saddle_back_Tamarin,Leontocebus_nigrifrons,Leontocebus_nigrifrons,40,NI,NI,1,11,NI,NI,NI,3,71
+Callitrichidae,Leontocebus,Golden_mantled_Saddle_back_Tamarin,Leontocebus_tripartitus,Leontocebus_tripartitus,18.5,NI,NI,NI,NI,NI,NI,NI,NI,73
+Callitrichidae,Leontocebus,Weddell’s_Saddle_back_Tamarin,Leontocebus_weddelli,Leontocebus_weddelli,30,NI,NI,NI,NI,NI,NI,NI,NI,718
+Callitrichidae,Leontocebus,Weddell’s_Saddle_back_Tamarin,Leontocebus_weddelli,Leontocebus_weddelli,54.5,44,65,NI,NI,NI,NI,NI,NI,1158
+Callitrichidae,Leontopithecus,Black_faced_Lion_Tamarin,Leontopithecus_caissara,Leontopithecus_caissara,345,NI,NI,2,NI,NI,NI,NI,NI,720
+Callitrichidae,Leontopithecus,Golden_headed_Lion_Tamarin,Leontopithecus_chrysomelas,Leontopithecus_chrysomelas,125.1,119.8,130.4,3,NI,NI,NI,NI,NI,721
+Callitrichidae,Leontopithecus,Golden_headed_Lion_Tamarin,Leontopithecus_chrysomelas,Leontopithecus_chrysomelas,25,NI,NI,NI,NI,NI,NI,NI,NI,726
+Callitrichidae,Leontopithecus,Golden_headed_Lion_Tamarin,Leontopithecus_chrysomelas,Leontopithecus_chrysomelas,36,NI,NI,1,5,Grid cell approach,NI,NI,8,74
+Callitrichidae,Leontopithecus,Black_Lion_Tamarin,Leontopithecus_chrysopygus,Leontopithecus_chrysopygus,138,NI,NI,NI,NI,NI,NI,NI,NI,722
+Callitrichidae,Leontopithecus,Black_Lion_Tamarin,Leontopithecus_chrysopygus,Leontopithecus_chrysopygus,40,NI,NI,NI,NI,NI,NI,NI,NI,723
+Callitrichidae,Leontopithecus,Black_Lion_Tamarin,Leontopithecus_chrysopygus,Leontopithecus_chrysopygus,276.5,NI,NI,NI,NI,NI,NI,NI,NI,726
+Callitrichidae,Leontopithecus,Golden_Lion_Tamarin,Leontopithecus_rosalia,Leontopithecus_rosalia,147,NI,NI,NI,NI,NI,NI,NI,NI,75
+Callitrichidae,Leontopithecus,Golden_Lion_Tamarin,Leontopithecus_rosalia,Leontopithecus_rosalia,45.2,21.3,73,7,5.43,Grid cell approach,NI,NI,17,1188
+Lepilemuridae,Lepilemur,Antafia_Sportive_Lemur,Lepilemur_aeeclis,Lepilemur_aeeclis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Tsiombikibo_Sportive_Lemur,Lepilemur_ahmansonorum,Lepilemur_ahmansonorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Ankarana_Sportive_Lemur,Lepilemur_ankaranensis,Lepilemur_ankaranensis,1,NI,NI,NI,NI,NI,NI,NI,NI,439
+Lepilemuridae,Lepilemur,Ankarana_Sportive_Lemur,Lepilemur_ankaranensis,Lepilemur_ankaranensis,5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lepilemuridae,Lepilemur,Betsileo_Sportive_Lemur,Lepilemur_betsileo,Lepilemur_betsileo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Gray_s_Sportive_Lemur,Lepilemur_dorsalis,Lepilemur_dorsalis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Milne_Edwards_s_Sportive_Lemur,Lepilemur_edwardsi,Lepilemur_edwardsi,1.09,0.67,1.7,NI,4,Radiocollar,NI,NI,18,727
+Lepilemuridae,Lepilemur,Andohahela_Sportive_Lemur,Lepilemur_fleuretae,Lepilemur_fleuretae,5.16,3.04,7.28,4,NI,NI,NI,NI,NI,728
+Lepilemuridae,Lepilemur,Anjiamangirana_Sportive_Lemur,Lepilemur_grewcockorum,Lepilemur_grewcockorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Mananara_Nord_Sportive_Lemur,Lepilemur_hollandorum,Lepilemur_hollandorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Zombitse_Sportive_Lemur,Lepilemur_hubbardi,Lepilemur_hubbardi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Manombo_Sportive_Lemur,Lepilemur_jamesorum,Lepilemur_jamesorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,White_footed_Sportive_Lemur,Lepilemur_leucopus,Lepilemur_leucopus,0.5,NI,NI,NI,NI,NI,NI,NI,NI,1189
+Lepilemuridae,Lepilemur,Small_toothed_Sportive_Lemur,Lepilemur_microdon,Lepilemur_microdon,0.5,NI,NI,NI,NI,NI,NI,NI,NI,348
+Lepilemuridae,Lepilemur,Daraina_Sportive_Lemur,Lepilemur_milanoii,Lepilemur_milanoii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Mittermeier_s_Sportive_Lemur,Lepilemur_mittermeieri,Lepilemur_mittermeieri,3.6,1.4,3.6,2,4.5,Minimum convex polygon,NI,NI,5,76
+Lepilemuridae,Lepilemur,Weasel_Sportive_Lemur,Lepilemur_mustelinus,Lepilemur_mustelinus,0.3,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lepilemuridae,Lepilemur,Weasel_Sportive_Lemur,Lepilemur_mustelinus,Lepilemur_mustelinus,1.5,NI,NI,NI,NI,NI,NI,NI,NI,77
+Lepilemuridae,Lepilemur,Ambodimahabibo_Sportive_Lemur,Lepilemur_otto,Lepilemur_otto,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Petter_s_Sportive_Lemur,Lepilemur_petteri,Lepilemur_petteri,0.3,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lepilemuridae,Lepilemur,Bemaraha_Sportive_Lemur,Lepilemur_randrianasoloi,Lepilemur_randrianasoloi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Red_tailed_Sportive_Lemur,Lepilemur_ruficaudatus,Lepilemur_ruficaudatus,0.8,NI,NI,NI,46,Kernel density estimators,NI,NI,48,79
+Lepilemuridae,Lepilemur,Sahamalaza_Sportive_Lemur,Lepilemur_sahamalazensis,Lepilemur_sahamalazensis,0.84,0.18,4.04,NI,8,Minimum convex polygon,NI,NI,9,350
+Lepilemuridae,Lepilemur,Masoala_Sportive_Lemur,Lepilemur_scottorum,Lepilemur_scottorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Seal_s_Sportive_Lemur,Lepilemur_seali,Lepilemur_seali,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Sahafary_Sportive_Lemur,Lepilemur_septentrionalis,Lepilemur_septentrionalis,1,NI,NI,NI,NI,NI,NI,NI,NI,80
+Lepilemuridae,Lepilemur,Sahafary_Sportive_Lemur,Lepilemur_septentrionalis,Lepilemur_septentrionalis,0.7,NI,NI,NI,NI,NI,NI,NI,NI,277
+Lepilemuridae,Lepilemur,Nosy_Be_Sportive_Lemur,Lepilemur_tymerlachsoni,Lepilemur_tymerlachsoni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepilemuridae,Lepilemur,Wright_s_Sportive_Lemur,Lepilemur_wrightae,Lepilemur_wrightae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Lophocebus,Gray_cheeked_Mangabey,Lophocebus_albigena,Lophocebus_albigena,167,NI,NI,NI,NI,NI,NI,NI,NI,520
+Cercopithecidae,Lophocebus,Gray_cheeked_Mangabey,Lophocebus_albigena,Lophocebus_albigena,190.5,156,225,2,20,Other,NI,Minimum convex polygon,18,744
+Cercopithecidae,Lophocebus,Northern_Black_Crested_Mangabey,Lophocebus_aterrimus,Lophocebus_aterrimus,59,48,70,1,NI,NI,NI,NI,NI,743
+Cercopithecidae,Lophocebus,Johnston_s_Mangabey,Lophocebus_johnstoni,Lophocebus_johnstoni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Lophocebus,Southern_Back_Crested_Mangabey,Lophocebus_opdenboschi,Lophocebus_opdenboschi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Lophocebus,Rusty_mantled_Mangabey,Lophocebus_osmani,Lophocebus_osmani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Lophocebus,Ugandan_Crested_Mangabey,Lophocebus_ugandae,Lophocebus_ugandae,155,NI,NI,NI,NI,NI,NI,NI,NI,895
+Lorisidae,Loris,Gray_Slender_Loris,Loris_lydekkerianus,Loris_lydekkerianus,27.2,12.6,37.5,NI,NI,NI,NI,NI,NI,748
+Lorisidae,Loris,Gray_Slender_Loris,Loris_lydekkerianus,Loris_lydekkerianus,2.6,1.6,3.6,2,3.5,Minimum convex polygon,NI,NI,11,747
+Lorisidae,Loris,Red_Slender_Loris,Loris_tardigradus,Loris_tardigradus,5,NI,NI,1,22,Minimum convex polygon,NI,Kernel density estimators,12,751
+Lorisidae,Loris,Red_Slender_Loris,Loris_tardigradus,Loris_tardigradus,2.4,NI,NI,NI,NI,NI,NI,NI,NI,1159
+Cercopithecidae,Macaca,Stump_tailed_Macaque,Macaca_arctoides,Macaca_arctoides,461.5,NI,NI,NI,NI,NI,NI,NI,NI,1160
+Cercopithecidae,Macaca,Assamese_Macaque,Macaca_assamensis,Macaca_assamensis,433.5,352,515,1,64,Kernel density estimators,NI,NI,76,81
+Cercopithecidae,Macaca,Assamese_Macaque,Macaca_assamensis,Macaca_assamensis,207.8,65.6,350,2,NI,NI,NI,NI,NI,82
+Cercopithecidae,Macaca,Assamese_Macaque,Macaca_assamensis,Macaca_assamensis,59,53,65,2,14.5,Grid cell approach,NI,NI,12,83
+Cercopithecidae,Macaca,Taiwanese_Macaque,Macaca_cyclopis,Macaca_cyclopis,120,NI,NI,1,40,NI,NI,NI,NI,754
+Cercopithecidae,Macaca,Taiwanese_Macaque,Macaca_cyclopis,Macaca_cyclopis,200,NI,NI,1,40-50,NI,NI,NI,1,1190
+Cercopithecidae,Macaca,Taiwanese_Macaque,Macaca_cyclopis,Macaca_cyclopis,97,NI,NI,1,21,NI,NI,NI,NI,1191
+Cercopithecidae,Macaca,Long_tailed_Macaque,Macaca_fascicularis,Macaca_fascicularis,157,14,300,5,NI,NI,NI,NI,NI,758
+Cercopithecidae,Macaca,Japanese_Macaque,Macaca_fuscata,Macaca_fuscata,23.95,3.9,44,NI,NI,NI,NI,NI,NI,1160
+Cercopithecidae,Macaca,Japanese_Macaque,Macaca_fuscata,Macaca_fuscata,366,NI,NI,1,37,NI,NI,NI,12,1192
+Cercopithecidae,Macaca,Japanese_Macaque,Macaca_fuscata,Macaca_fuscata,950,450,1550,5,104.3,NI,NI,NI,33,1193
+Cercopithecidae,Macaca,Japanese_Macaque,Macaca_fuscata,Macaca_fuscata,153.3,130,170,3,11.6,NI,NI,NI,NI,1194
+Cercopithecidae,Macaca,Japanese_Macaque,Macaca_fuscata,Macaca_fuscata,80,NI,NI,1,47,NI,NI,NI,10,1195
+Cercopithecidae,Macaca,Heck_s_Macaque,Macaca_hecki,Macaca_hecki,100,NI,NI,NI,NI,NI,NI,NI,NI,915
+Cercopithecidae,Macaca,Northern_Pig_tailed_Macaque,Macaca_leonina,Macaca_leonina,215,83,347,7,23.3,NI,NI,NI,36,764
+Cercopithecidae,Macaca,White_cheeked_Macaque,Macaca_leucogenys,Macaca_leucogenys,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Macaca,Moor_Macaque,Macaca_maura,Macaca_maura,20,NI,NI,NI,NI,NI,NI,NI,NI,767
+Cercopithecidae,Macaca,Rhesus_Macaque,Macaca_mulatta,Macaca_mulatta,47.75,25.5,70,1,41,NI,NI,NI,12,769
+Cercopithecidae,Macaca,Rhesus_Macaque,Macaca_mulatta,Macaca_mulatta,83,1,300,2,14.5,NI,NI,NI,36,770
+Cercopithecidae,Macaca,Arunachal_Macaque,Macaca_munzala,Macaca_munzala,26,24,28,1,22,Minimum convex polygon,NI,Other,2,84
+Cercopithecidae,Macaca,Arunachal_Macaque,Macaca_munzala,Macaca_munzala,13.5,11,16,1,13,Minimum convex polygon,NI,Other,2,84
+Cercopithecidae,Macaca,Sunda_Pig_tailed_Macaque,Macaca_nemestrina,Macaca_nemestrina,314.3,50,828,3,NI,NI,NI,NI,29,772
+Cercopithecidae,Macaca,Sunda_Pig_tailed_Macaque,Macaca_nemestrina,Macaca_nemestrina,140,127,153,3,68,Grid cell approach,NI,NI,17,773
+Cercopithecidae,Macaca,Crested_Macaque,Macaca_nigra,Macaca_nigra,216,114,341,3,63.8,Minimum convex polygon,NI,NI,18,774
+Cercopithecidae,Macaca,Gorontalo_Macaque,Macaca_nigrescens,Macaca_nigrescens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Macaca,Booted_Macaque,Macaca_ochreata,Macaca_ochreata,57,29,85,NI,NI,NI,NI,NI,NI,777
+Cercopithecidae,Macaca,Pagai_Macaque,Macaca_pagensis,Macaca_pagensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Macaca,Bonnet_Macaque,Macaca_radiata,Macaca_radiata,26,NI,NI,1,27,NI,NI,NI,30,781
+Cercopithecidae,Macaca,Siberut_Macaque,Macaca_siberu,Macaca_siberu,125,NI,NI,NI,NI,NI,NI,NI,NI,915
+Cercopithecidae,Macaca,Siberut_Macaque,Macaca_siberu,Macaca_siberu,134.9,NI,NI,1,29,Minimum convex polygon,84.1,Kernel density estimators,12,782
+Cercopithecidae,Macaca,Lion_tailed_Macaque,Macaca_silenus,Macaca_silenus,125,NI,NI,NI,NI,NI,NI,NI,NI,784
+Cercopithecidae,Macaca,Lion_tailed_Macaque,Macaca_silenus,Macaca_silenus,500,NI,NI,1,NI,NI,NI,NI,12,785
+Cercopithecidae,Macaca,Toque_Macaque,Macaca_sinica,Macaca_sinica,66,17,115,15,20.6,NI,NI,NI,12,85
+Cercopithecidae,Macaca,Barbary_Macaque,Macaca_sylvanus,Macaca_sylvanus,725,307,901,5,24,NI,NI,NI,24,790
+Cercopithecidae,Macaca,Barbary_Macaque,Macaca_sylvanus,Macaca_sylvanus,350,200,500,NI,NI,NI,NI,NI,NI,791
+Cercopithecidae,Macaca,Tibetan_Macaque,Macaca_thibetana,Macaca_thibetana,1106,NI,NI,NI,NI,NI,NI,NI,NI,915
+Cercopithecidae,Macaca,Tibetan_Macaque,Macaca_thibetana,Macaca_thibetana,3000,NI,NI,6,38.3,NI,NI,NI,4,1197
+Cercopithecidae,Macaca,Tonkean_Macaque,Macaca_tonkeana,Macaca_tonkeana,104.75,66.75,142.75,2,17.25,NI,NI,NI,18,794
+Cercopithecidae,Mandrillus,Drill,Mandrillus_leucophaeus,Mandrillus_leucophaeus,2750,500,5000,NI,NI,NI,NI,NI,NI,87
+Cercopithecidae,Mandrillus,Mandrill,Mandrillus_sphinx,Mandrillus_sphinx,4000,NI,NI,NI,NI,NI,NI,NI,NI,1012
+Cercopithecidae,Mandrillus,Mandrill,Mandrillus_sphinx,Mandrillus_sphinx,1705,500,2850,4,15-95,NI,NI,NI,27,86
+Cercopithecidae,Mandrillus,Mandrill,Mandrillus_sphinx,Mandrillus_sphinx,790,NI,NI,1,552,Minimum polygon,NI,NI,1,799
+Cercopithecidae,Mandrillus,Mandrill,Mandrillus_sphinx,Mandrillus_sphinx,18147,NI,NI,NI,NI,NI,NI,NI,NI,800
+Callitrichidae,Mico,Rio_Acarí_Marmoset,Mico_acariensis,Mico_acariensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Silvery_Marmoset,Mico_argentatus,Mico_argentatus,10.5,NI,NI,4,NI,NI,NI,NI,NI,801
+Callitrichidae,Mico,Silvery_Marmoset,Mico_argentatus,Mico_argentatus,14.9,NI,NI,2,NI,NI,NI,NI,NI,802
+Callitrichidae,Mico,Silvery_Marmoset,Mico_argentatus,Mico_argentatus,11.03,4,24,NI,NI,NI,NI,NI,NI,808
+Callitrichidae,Mico,Silvery_Marmoset,Mico_argentatus,Mico_argentatus,15.5,NI,NI,1,06-sep,Grid cell approach,NI,NI,11,1198
+Callitrichidae,Mico,Silvery_Marmoset,Mico_argentatus,Mico_argentatus,35,NI,NI,NI,NI,NI,NI,NI,NI,88
+Callitrichidae,Mico,Golden_white_Tassel_ear_Marmoset,Mico_chrysoleucos,Mico_chrysoleucos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Snethlage_s_Marmoset,Mico_emiliae,Mico_emiliae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Santarém_Marmoset,Mico_humeralifer,Mico_humeralifer,13.8,NI,NI,1,11,Grid cell approach,NI,NI,7,89
+Callitrichidae,Mico,Santarém_Marmoset,Mico_humeralifer,Mico_humeralifer,28,NI,NI,NI,NI,NI,NI,NI,NI,28
+Callitrichidae,Mico,Black_crowned_Dwarf_Marmoset,NA,Mico_humilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Rio_Aripuanã_Marmoset,Mico_intermedius,Mico_intermedius,25.17,22.1,28.25,2,sep-15,Grid cell approach,NI,NI,12,90
+Callitrichidae,Mico,Golden_white_Bare_ear_Marmoset,Mico_leucippe,Mico_leucippe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Marca_s_Marmoset,Mico_marcai,Mico_marcai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Maués_Marmoset,Mico_mauesi,Mico_mauesi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Black_tailed_Marmoset,Mico_melanurus,Mico_melanurus,429.5,72,427,NI,4,Minimum convex polygon,NI,Other,8,91
+Callitrichidae,Mico,Black_tailed_Marmoset,Mico_melanurus,Mico_melanurus,14,NI,NI,NI,NI,NI,NI,NI,NI,92
+Callitrichidae,Mico,Black_headed_Marmoset,Mico_nigriceps,Mico_nigriceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Rondon_s_Marmoset,Mico_rondoni,Mico_rondoni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callitrichidae,Mico,Sateré_Marmoset,Mico_saterei,Mico_saterei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Montagne_d_Ambre_Mouse_Lemur,Microcebus_arnholdi,Microcebus_arnholdi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Madame_Berthe_s_Mouse_Lemur,Microcebus_berthae,Microcebus_berthae,3.7,2.5,4.9,NI,9,Minimum convex polygon,NI,NI,4,814
+Cheirogaleidae,Microcebus,Bongolava_Mouse_Lemur,Microcebus_bongolavensis,Microcebus_bongolavensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus, Nosy_Boraha_Mouse_Lemur,NA,Microcebus_boraha,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Ambarijeby_Mouse_Lemur,Microcebus_danfossi,Microcebus_danfossi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Ganzhorn's_Mouse_Lemur,NA,Microcebus_ganzhorni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Gerp_s_Mouse_Lemur,Microcebus_gerpi,Microcebus_gerpi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Gray_brown_Mouse_Lemur,Microcebus_griseorufus,Microcebus_griseorufus,0.3,NI,NI,NI,NI,NI,NI,NI,NI,1162
+Cheirogaleidae,Microcebus,Gray_brown_Mouse_Lemur,Microcebus_griseorufus,Microcebus_griseorufus,0.66,0.43,0.9,NI,26,Minimum convex polygon,NI,NI,48,354
+Cheirogaleidae,Microcebus,Jolly_s_Mouse_Lemur,Microcebus_jollyae,Microcebus_jollyae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Goodman_s_Mouse_Lemur,Microcebus_lehilahytsara,Microcebus_lehilahytsara,0.35,0.1,0.6,NI,10,Grid cell approach,NI,NI,2,93
+Cheirogaleidae,Microcebus,Anjiahely_Mouse_Lemur,Microcebus_macarthurii,Microcebus_macarthurii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Nosy_Be_Mouse_Lemur,Microcebus_mamiratra,Microcebus_mamiratra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Bemanasy_Mouse_Lemur,NA,Microcebus_manitatra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Margot_Marsh_s_Mouse_Lemur,Microcebus_margotmarshae,Microcebus_margotmarshae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Marohita_Mouse_Lemur,Microcebus_marohita,Microcebus_marohita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Mittermeier_s_Mouse_Lemur,Microcebus_mittermeieri,Microcebus_mittermeieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Gray_Mouse_Lemur,Microcebus_murinus,Microcebus_murinus,1.75,0.7,2.8,NI,28,Minimum convex polygon,NI,NI,3,94
+Cheirogaleidae,Microcebus,Gray_Mouse_Lemur,Microcebus_murinus,Microcebus_murinus,1.5,NI,NI,NI,12,Minimum convex polygon,NI,NI,19,95
+Cheirogaleidae,Microcebus,Peters_s_Mouse_Lemur,Microcebus_myoxinus,Microcebus_myoxinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Golden_brown_Mouse_Lemur,Microcebus_ravelobensis,Microcebus_ravelobensis,0.57,0.54,0.61,NI,42,Minimum convex polygon,NI,NI,12,1199
+Cheirogaleidae,Microcebus,Rufous_Mouse_Lemur,Microcebus_rufus,Microcebus_rufus,1,NI,NI,NI,20,Other,NI,NI,9,97
+Cheirogaleidae,Microcebus,Rufous_Mouse_Lemur,Microcebus_murinus,Microcebus_murinus,2.5,1.6,3.5,8,NI,NI,NI,NI,3,98
+Cheirogaleidae,Microcebus,Sambirano_Mouse_Lemur,Microcebus_sambiranensis,Microcebus_sambiranensis,1.2,0.9,1.5,NI,NI,NI,NI,NI,NI,826
+Cheirogaleidae,Microcebus,Simmons_s_Mouse_Lemur,Microcebus_simmonsi,Microcebus_simmonsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Anosi_Mouse_lemur,Microcebus_tanosi,Microcebus_tanosi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Microcebus,Tavaratra_Mouse_Lemur,Microcebus_tavaratra,Microcebus_tavaratra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Miopithecus,Northern_Talapoin_Monkey,Miopithecus_ogouensis,Miopithecus_ogouensis,300,100,500,NI,NI,NI,NI,NI,NI,155
+Cercopithecidae,Miopithecus,Northern_Talapoin_Monkey,Miopithecus_ogouensis,Miopithecus_ogouensis,125,110,140,3,NI,NI,NI,NI,NI,830
+Cercopithecidae,Miopithecus,Southern_Talapoin_Monkey,Miopithecus_talapoin,Miopithecus_talapoin,311,122,500,NI,NI,NI,NI,NI,NI,832
+Cheirogaleidae,Mirza,Coquerel_s_Giant_Mouse_Lemur,Mirza_coquereli,Mirza_coquereli,2.5,NI,NI,NI,NI,NI,NI,NI,NI,67
+Cheirogaleidae,Mirza,Coquerel_s_Giant_Mouse_Lemur,Mirza_coquereli,Mirza_coquereli,4,3,10.75,NI,18,Minimum convex polygon,NI,NI,10,1201
+Cheirogaleidae,Mirza,Northern_Giant_Mouse_Lemur,Mirza_zaza,Mirza_zaza,1.66,0.97,2.34,2,NI,Minimum convex polygon,NI,Kernel density estimators,3,1202
+Cercopithecidae,Nasalis,Proboscis_Monkey,Nasalis_larvatus,Nasalis_larvatus,900,NI,NI,6,NI,NI,NI,NI,NI,837
+Cercopithecidae,Nasalis,Proboscis_Monkey,Nasalis_larvatus,Nasalis_larvatus,131.25,125,137.5,4,NI,NI,NI,NI,NI,836
+Hylobatidae,Nomascus,Northern_Yellow_cheeked_Crested_Gibbon,Nomascus_annamensis,Nomascus_annamensis,50,NI,NI,NI,NI,NI,NI,NI,NI,1082
+Hylobatidae,Nomascus,Northern_Yellow_cheeked_Crested_Gibbon,Nomascus_annamensis,Nomascus_annamensis,127,NI,NI,1,4,Other,NI,NI,36,1203
+Hylobatidae,Nomascus,Western_Black_Crested_Gibbon,Nomascus_concolor,Nomascus_concolor,87,NI,NI,1,NI,NI,NI,NI,NI,838
+Hylobatidae,Nomascus,Southern_Yellow_cheeked_Crested_Gibbon,Nomascus_gabriellae,Nomascus_gabriellae,51.86,NI,NI,NI,NI,NI,NI,NI,NI,840
+Hylobatidae,Nomascus,Hainan_Crested_Gibbon,Nomascus_hainanus,Nomascus_hainanus,781,584,978,2,NI,NI,NI,NI,NI,841
+Hylobatidae,Nomascus,Northern_White_cheeked_Crested_Gibbon,Nomascus_leucogenys,Nomascus_leucogenys,87.5,NI,NI,NI,NI,NI,NI,NI,NI,99
+Hylobatidae,Nomascus,Northern_White_cheeked_Crested_Gibbon,Nomascus_leucogenys,Nomascus_leucogenys,350,NI,NI,NI,NI,NI,NI,NI,NI,100
+Hylobatidae,Nomascus,Northern_White_cheeked_Crested_Gibbon,Nomascus_leucogenys,Nomascus_leucogenys,37.9,29,43.9,3,4,Minimum convex polygon,NI,NI,12,843
+Hylobatidae,Nomascus,Eastern_Black_Crested_Gibbon,Nomascus_nasutus,Nomascus_nasutus,130.3,128,140,3,8,Minimum convex polygon,NI,NI,24,1204
+Hylobatidae,Nomascus,Southern_White_cheeked_Crested_Gibbon,Nomascus_siki,Nomascus_siki,36.42,28.97,43.86,12,NI,NI,NI,NI,NI,843
+Hylobatidae,Nomascus,Southern_White_cheeked_Crested_Gibbon,Nomascus_siki,Nomascus_siki,140,NI,NI,NI,NI,NI,NI,NI,NI,101
+Lorisidae,Nycticebus,Bangka_Slow_Loris,Nycticebus_bancanus,Nycticebus_bancanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Nycticebus,Bengal_Slow_Loris,Nycticebus_bengalensis,Nycticebus_bengalensis,15.6,12.94,20.68,NI,4,Minimum convex polygon,12.7,Kernel density estimators,24,102
+Lorisidae,Nycticebus,Bornean_Slow_Loris,Nycticebus_borneanus,Nycticebus_borneanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Nycticebus,Sunda_Slow_Loris,Nycticebus_coucang,Nycticebus_coucang,6.3,0.4,25,4,16,Minimum convex polygon,NI,NI,4,847
+Lorisidae,Nycticebus,Javan_Slow_Loris,Nycticebus_javanicus,Nycticebus_javanicus,7.5,NI,NI,NI,NI,NI,NI,NI,NI,103
+Lorisidae,Nycticebus,Kayan_River_Slow_Loris,Nycticebus_kayan,Nycticebus_kayan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Nycticebus,Philippine_Slow_Loris,Nycticebus_menagensis,Nycticebus_menagensis,4.76,1.45,9.15,NI,4,Local convex hull ,NI,NI,6,104
+Lorisidae,Nycticebus,Pygmy_Slow_Loris,Nycticebus_pygmaeus,Nycticebus_pygmaeus,17,12,22,2,NI,NI,NI,NI,NI,1164
+Lorisidae,Nycticebus,Pygmy_Slow_Loris,Nycticebus_pygmaeus,Nycticebus_pygmaeus,1.6,0.1,3.1,NI,NI,Kernel density estimators,NI,NI,24,849
+Galagidae,Otolemur,Thick_tailed_Greater_Galago,Otolemur_crassicaudatus,Otolemur_crassicaudatus,8.5,7,10,2,NI,NI,NI,NI,NI,1165
+Galagidae,Otolemur,Thick_tailed_Greater_Galago,Otolemur_crassicaudatus,Otolemur_crassicaudatus,8.5,NI,NI,NI,NI,NI,NI,NI,NI,37
+Galagidae,Otolemur,Garnett_s_Greater_Galago,Otolemur_garnettii,Otolemur_garnettii,14.17,10.8,17.8,7,NI,NI,NI,NI,44,852
+Hominidae,Pan,Bonobo,Pan_paniscus,Pan_paniscus,4000,2200,5800,NI,NI,NI,NI,NI,NI,853
+Hominidae,Pan,Chimpanzee,Pan_troglodytes,Pan_troglodytes,1846.7,NI,NI,NI,NI,NI,NI,NI,NI,857
+Hominidae,Pan,Chimpanzee,Pan_troglodytes,Pan_troglodytes,678,NI,NI,1,38-46,Minimum convex polygon,689,Kernel density estimators,15,858
+Hominidae,Pan,Chimpanzee,Pan_troglodytes,Pan_troglodytes,2620,NI,NI,1,NI,Grid cell approach,NI,NI,12,855
+Cercopithecidae,Papio,Olive_Baboon,Papio_anubis,Papio_anubis,1968,NI,NI,1,NI,NI,NI,NI,NI,862
+Cercopithecidae,Papio,Olive_Baboon,Papio_anubis,Papio_anubis,4357,NI,NI,1,NI,NI,NI,NI,NI,863
+Cercopithecidae,Papio,Olive_Baboon,Papio_anubis,Papio_anubis,455,390,520,NI,NI,NI,NI,NI,NI,864
+Cercopithecidae,Papio,Yellow_Baboon,Papio_cynocephalus,Papio_cynocephalus,900,NI,NI,NI,NI,NI,NI,NI,NI,865
+Cercopithecidae,Papio,Yellow_Baboon,Papio_cynocephalus,Papio_cynocephalus,2408.4,NI,NI,NI,NI,NI,NI,NI,NI,866
+Cercopithecidae,Papio,Hamadryas_Baboon,Papio_hamadryas,Papio_hamadryas,2800,NI,NI,1,66,Grid cell approach,NI,NI,17,869
+Cercopithecidae,Papio,Hamadryas_Baboon,Papio_hamadryas,Papio_hamadryas,930,NI,NI,1,9-102,NI,NI,NI,NI,870
+Cercopithecidae,Papio,Kinda_Baboon,Papio_kindae,Papio_kindae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Papio,Guinea_Baboon,Papio_papio,Papio_papio,3250,2000,4500,2(mean,192,Grid cell approach,NI,NI,NI,874
+Cercopithecidae,Papio,Chacma_Baboon,Papio_ursinus,Papio_ursinus,500,NI,NI,1,NI,NI,NI,NI,NI,877
+Cercopithecidae,Papio,Chacma_Baboon,Papio_ursinus,Papio_ursinus,1916.59,NI,NI,NI,NI,NI,NI,NI,NI,878
+Galagidae,Paragalago,Kenya_Coast_Dwarf_Galago,NA,Paragalago_cocos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Paragalago,Mozambique_Dwarf_Galago,NA,Paragalago _granti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Paragalago,Mountain_Dwarf_Galago,NA,Paragalago_orinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Paragalago,Rondo_Dwarf_Galago,NA,Paragalago_rondoensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galagidae,Paragalago,Tanzania_Coast_Dwarf_Galago,NA,Paragalago_zanzibaricus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Perodicticus,Milne_Edwards_s_Potto,Perodicticus_edwardsi,Perodicticus_edwardsi,23.2,7.5,31.5,3,NI,NI,NI,NI,NI,1166
+Lorisidae,Perodicticus,Milne_Edwards_s_Potto,Perodicticus_edwardsi,Perodicticus_edwardsi,145.2,27.06,289.64,NI,12,Minimum convex polygon,28.4,Kernel density estimators,13,881
+Lorisidae,Perodicticus,East_African_Potto,Perodicticus_ibeanus,Perodicticus_ibeanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lorisidae,Perodicticus,West_African_Potto,Perodicticus_potto,Perodicticus_potto,7.5,NI,NI,NI,NI,NI,NI,NI,NI,59
+Cheirogaleidae,Phaner,Montagne_D__Ambre_Fork_marked_Lemur,Phaner_electromontis,Phaner_electromontis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheirogaleidae,Phaner,Masoala_Fork_marked_Lemur,Phaner_furcifer,Phaner_furcifer,1,NI,NI,1,NI,NI,NI,NI,1,833
+,Phaner,Masoala_Fork_marked_Lemur,Phaner_furcifer,Phaner_furcifer,4.83,4.65,5.01,30,NI,NI,NI,NI,15,883
+Cheirogaleidae,Phaner,Pale_Fork_marked_Lemur,Phaner_pallescens,Phaner_pallescens,6.5,NI,NI,NI,NI,NI,NI,NI,NI,277
+Cheirogaleidae,Phaner,Sambirano_Fork_marked_Lemur,Phaner_parienti,Phaner_parienti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Upper_Guinea_Red_Colobus,Piliocolobus_badius,Piliocolobus_badius,58,50.3,65.7,2,62,Grid cell approach,NI,NI,36,886
+Cercopithecidae,Piliocolobus,Upper_Guinea_Red_Colobus,Piliocolobus_badius,Piliocolobus_badius,100,NI,NI,1,66,NI,NI,NI,NI,962
+Cercopithecidae,Piliocolobus,Bouvier_s_Red_Colobus,Piliocolobus_bouvieri,Piliocolobus_bouvieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Niger_Delta_Red_Colobus,Piliocolobus_epieni,Piliocolobus_epieni,73,NI,NI,NI,NI,NI,NI,NI,NI,889
+Cercopithecidae,Piliocolobus,Foa_s_Red_Colobus,Piliocolobus_foai,Piliocolobus_foai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Udzungwa_Red_Colobus,Piliocolobus_gordonorum,Piliocolobus_gordonorum,17.53,13.2,20.8,3,38.16,Minimum convex polygon,10.56,Behavior-correct polygon method,NI,105
+Cercopithecidae,Piliocolobus,Zanzibar_Red_Colobus,Piliocolobus_kirkii,Piliocolobus_kirkii,19,13,25,NI,NI,NI,NI,NI,NI,894
+Cercopithecidae,Piliocolobus,Lang_s_Red_Colobus,Piliocolobus_langi,Piliocolobus_langi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,NA,NA,Piliocolobus_lulindicus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Oustalet_s_Red_Colobus,Piliocolobus_oustaleti,Piliocolobus_oustaleti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Lomami_Red_Colobus,Piliocolobus_parmentieri,Piliocolobus_parmentieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Pennant_s_Red_Colobus,Piliocolobus_pennantii,Piliocolobus_pennantii,73,NI,NI,NI,NI,NI,NI,NI,NI,106
+Cercopithecidae,Piliocolobus,Preuss_s_Red_Colobus,Piliocolobus_preussi,Piliocolobus_preussi,100,NI,NI,NI,NI,NI,NI,NI,NI,898
+Cercopithecidae,Piliocolobus,Tana_River_Red_Colobus,Piliocolobus_rufomitratus,Piliocolobus_rufomitratus,14.25,9.5,19,NI,NI,NI,NI,NI,NI,901
+Cercopithecidae,Piliocolobus,Semliki_Red_Colobus,Piliocolobus_semlikiensis,Piliocolobus_semlikiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Temminick_s_Red_Colobus,Piliocolobus_temminckii,Piliocolobus_temminckii,22.5,17,28,2,NI,NI,NI,NI,NI,903
+Cercopithecidae,Piliocolobus,Ashy_Red_Colobus,Piliocolobus_tephrosceles,Piliocolobus_tephrosceles,308.5,257,360,4,NI,NI,NI,NI,NI,907
+Cercopithecidae,Piliocolobus,Ashy_Red_Colobus,Piliocolobus_tephrosceles,Piliocolobus_tephrosceles,70.7,NI,NI,NI,NI,NI,NI,NI,NI,904
+Cercopithecidae,Piliocolobus,Ashy_Red_Colobus,Piliocolobus_tephrosceles,Piliocolobus_tephrosceles,21,5.04,36.9,2,36,NI,NI,NI,4,906
+Cercopithecidae,Piliocolobus,Tshuapa_Red_Colobus,Piliocolobus_tholloni,Piliocolobus_tholloni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Piliocolobus,Miss_Waldron_s_Red_Colobus,Piliocolobus_waldronae,Piliocolobus_waldronae,120,100,140,2,NI,NI,NI,NI,NI,910
+Pitheciidae,Pithecia,Equatorial_Saki,Pithecia_aequatorialis,Pithecia_aequatorialis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Buffy_Saki,Pithecia_albicans,Pithecia_albicans,172.4,147,204,5,NI,Minimum convex polygon,NI,NI,20,107
+Pitheciidae,Pithecia,Cazuza_s_Saki,Pithecia_cazuzai,Pithecia_cazuzai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Golden_faced_Saki,Pithecia_chrysocephala,Pithecia_chrysocephala,103,NI,NI,NI,NI,NI,NI,NI,NI,108
+Pitheciidae,Pithecia,Golden_faced_Saki,Pithecia_chrysocephala,Pithecia_chrysocephala,9.25,8.5,10,2,NI,NI,NI,NI,NI,109
+Pitheciidae,Pithecia,Hairy_Saki,Pithecia_hirsuta,Pithecia_hirsuta,24.9,9.7,41,3,3.8,NI,NI,NI,13,110
+Pitheciidae,Pithecia,Burnished_Saki,Pithecia_inusta,Pithecia_inusta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Gray_s_Bald_faced_Saki,Pithecia_irrorata,Pithecia_irrorata,35.9,15.6,59.6,5,NI,Kernel density estimators,56.38,Minimum convex polygon,28,111
+Pitheciidae,Pithecia,Isabel_s_Saki,Pithecia_isabela,Pithecia_isabela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Miller_s_Saki,Pithecia_milleri,Pithecia_milleri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Mittermeier_s_Tapajós_Saki,Pithecia_mittermeieri,Pithecia_mittermeieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Monk_Saki,Pithecia_monachus,Pithecia_monachus,25.85,9.7,42,NI,NI,NI,NI,NI,NI,916
+Pitheciidae,Pithecia,Napo_Saki,Pithecia_napensis,Pithecia_napensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,Pissinatti_s_Bald_faced_Saki,Pithecia_pissinattii,Pithecia_pissinattii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Pithecia,White_faced_saki,Pithecia_pithecia,Pithecia_pithecia,12.5,NI,NI,NI,NI,NI,NI,NI,NI,916
+Pitheciidae,Pithecia,White_faced_saki,Pithecia_pithecia,Pithecia_pithecia,197,107,287,2,2.5,Minimum convex polygon,NI,NI,11,112
+Pitheciidae,Pithecia,White_faced_saki,Pithecia_pithecia,Pithecia_pithecia,7,NI,NI,NI,NI,NI,NI,NI,NI,113
+Pitheciidae,Pithecia,White_faced_saki,Pithecia_pithecia,Pithecia_pithecia,10.3,NI,NI,NI,NI,NI,NI,NI,NI,114
+Pitheciidae,Pithecia,White_faced_saki,Pithecia_pithecia,Pithecia_pithecia,15,NI,NI,NI,NI,NI,NI,NI,NI,115
+Pitheciidae,Pithecia,Rylands__Bald_faced_Saki,Pithecia_rylandsi,Pithecia_rylandsi,35.9,NI,NI,5,NI,NI,NI,NI,NI,111
+Pitheciidae,Pithecia,Vanzolini’s_Bald_faced_Saki,Pithecia_vanzolinii,Pithecia_vanzolinii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Madidi_Titi,Plecturocebus_aureipalatii,Plecturocebus_aureipalatii,21,17,25,NI,NI,NI,NI,NI,NI,923
+Pitheciidae,Plecturocebus,Madidi_Titi,Plecturocebus_aureipalatii,Plecturocebus_aureipalatii,6.9,NI,NI,1,4,Minimum convex polygon,NI,NI,5,
+Pitheciidae,Plecturocebus,Lake_Baptista_Titi,Plecturocebus_baptista,Plecturocebus_baptista,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Prince_Bernhard_s_Titi,Plecturocebus_bernhardi,Plecturocebus_bernhardi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Brown_Titi,Plecturocebus_brunneus,Plecturocebus_brunneus,3.9,3,4.8,NI,NI,NI,NI,NI,NI,30
+Pitheciidae,Plecturocebus,Chestnut_bellied_Titi,Plecturocebus_caligatus,Plecturocebus_caligatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Caquetá_Titi,Plecturocebus_caquetensis,Plecturocebus_caquetensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Ashy_Titi,Plecturocebus_cinerascens,Plecturocebus_cinerascens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Coppery_Titi,Plecturocebus_cupreus,Plecturocebus_cupreus,25,20,30,NI,NI,NI,NI,NI,NI,928
+Pitheciidae,Plecturocebus,Red_crowned_Titi,Plecturocebus_discolor,Plecturocebus_discolor,3.3,NI,NI,NI,NI,NI,NI,NI,NI,929
+Pitheciidae,Plecturocebus,White_eared_Titi,Plecturocebus_donacophilus,Plecturocebus_donacophilus,100,NI,NI,NI,NI,NI,NI,NI,NI,1139
+Pitheciidae,Plecturocebus,White_eared_Titi,Plecturocebus_donacophilus,Plecturocebus_donacophilus,9,4,14,NI,NI,NI,NI,NI,NI,930
+Pitheciidae,Plecturocebus,Hoffmann_s_Titi,Plecturocebus_hoffmannsi,Plecturocebus_hoffmannsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Milton´s_titi_monkey,Plecturocebus_miltoni,Plecturocebus_miltoni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Rio_Beni_Titi,Plecturocebus_modestus,Plecturocebus_modestus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Red_bellied_Titi,Plecturocebus_moloch,Plecturocebus_moloch,4.2,NI,NI,NI,NI,NI,NI,NI,NI,11
+Pitheciidae,Plecturocebus,Red_bellied_Titi,Plecturocebus_moloch,Plecturocebus_moloch,12,NI,NI,NI,NI,NI,NI,NI,NI,116
+Pitheciidae,Plecturocebus,San_Martín_Titi,Plecturocebus_oenanthe,Plecturocebus_oenanthe,2.3,NI,NI,1,NI,NI,NI,NI,NI,931
+Pitheciidae,Plecturocebus,Olalla_s_Titi,Plecturocebus_olallae,Plecturocebus_olallae,10,NI,NI,NI,NI,NI,NI,NI,NI,932
+Pitheciidae,Plecturocebus,Ornate_Titi,Plecturocebus_ornatus,Plecturocebus_ornatus,15.93,14.26,17.6,NI,NI,NI,NI,NI,NI,934
+Pitheciidae,Plecturocebus,Ornate_Titi,Plecturocebus_ornatus,Plecturocebus_ornatus,4.15,NI,NI,NI,NI,NI,NI,NI,NI,117
+Pitheciidae,Plecturocebus,Ornate_Titi,Plecturocebus_ornatus,Plecturocebus_ornatus,1,NI,NI,NI,NI,NI,NI,NI,NI,1139
+Pitheciidae,Plecturocebus,Ornate_Titi,Plecturocebus_ornatus,Plecturocebus_ornatus,8.75,NI,NI,NI,NI,NI,NI,NI,NI,118
+Pitheciidae,Plecturocebus,Pale_Titi,Plecturocebus_pallescens,Plecturocebus_pallescens,20,15,25,NI,NI,NI,NI,NI,NI,936
+Pitheciidae,Plecturocebus,Stephen_Nash_s_Titi,Plecturocebus_stephennashi,Plecturocebus_stephennashi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Toppin’s_Titi,Plecturocebus_toppini,Plecturocebus_toppini,4.7,1.4,8,NI,NI,NI,NI,NI,NI,416
+Pitheciidae,Plecturocebus,Urubamba_Brown_Titi,Plecturocebus_urubambensis,Plecturocebus_urubambensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pitheciidae,Plecturocebus,Vieira_s_Titi,Plecturocebus_vieirai,Plecturocebus_vieirai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hominidae,Pongo,Sumatran_Orangutan,Pongo_abelii,Pongo_abelii,277,131,423,NI,8,Minimum convex polygon,301,Kernel density estimators,13,119
+Hominidae,Pongo,Bornean_Orangutan,Pongo_pygmaeus,Pongo_pygmaeus,409.5,NI,NI,NI,NI,NI,NI,NI,NI,120
+Hominidae,Pongo,Bornean_Orangutan,Pongo_pygmaeus,Pongo_pygmaeus,203.3,NI,NI,NI,NI,NI,NI,NI,NI,121
+Hominidae,Pongo,Bornean_Orangutan,Pongo_pygmaeus,Pongo_pygmaeus,694.7,353,1483,NI,9,Minimum convex polygon,NI,Grid cell approach,56,1210
+Hominidae,Pongo,Tapanuli_Orangutan,NA,Pongo_tapanuliensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Black_and_white_Langur,Presbytis_bicolor,Presbytis_bicolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Miller_s_Langur,Presbytis_canicrus,Presbytis_canicrus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Cross_marked_Langur,Presbytis_chrysomelas,Presbytis_chrysomelas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Javan_Langur,Presbytis_comata,Presbytis_comata,26,14,38,4,8.75,NI,NI,NI,60,122
+Cercopithecidae,Presbytis,Banded_Langur,Presbytis_femoralis,Presbytis_femoralis,24.85,16.59,33.11,NI,NI,NI,NI,NI,NI,946
+Cercopithecidae,Presbytis,White_fronted_Langur,Presbytis_frontata,Presbytis_frontata,200,NI,NI,NI,NI,NI,NI,NI,NI,943
+Cercopithecidae,Presbytis,Hose_s_Langur,Presbytis_hosei,Presbytis_hosei,40,NI,NI,NI,NI,NI,NI,NI,NI,123
+Cercopithecidae,Presbytis,Black_crested_Sumatran_Langur,Presbytis_melalophos,Presbytis_melalophos,22,NI,NI,NI,NI,NI,NI,NI,NI,1087
+Cercopithecidae,Presbytis,Mitered_Langur,Presbytis_mitrata,Presbytis_mitrata,21.75,NI,NI,NI,NI,NI,NI,NI,NI,1087
+Cercopithecidae,Presbytis,Natuna_Islands_Langur,Presbytis_natunae,Presbytis_natunae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Mentawai_Langur,Presbytis_potenziani,Presbytis_potenziani,25.25,20.2,30.3,2,06-ago,Minimum convex polygon,NI,Kernel density estimators,19,1196
+Cercopithecidae,Presbytis,Maroon_Langur,Presbytis_rubicunda,Presbytis_rubicunda,66,33,99,9,6.1,NI,NI,NI,15,954
+Cercopithecidae,Presbytis,Maroon_Langur,Presbytis_rubicunda,Presbytis_rubicunda,108.45,104.9,112,1,05-jul,Kernel density estimators,NI,NI,12,955
+Cercopithecidae,Presbytis,Sabah_Grizzled_Langur,Presbytis_sabana,Presbytis_sabana,90.9,NI,NI,NI,NI,NI,NI,NI,NI,948
+Cercopithecidae,Presbytis,Pale_thighed_Langur,Presbytis_siamensis,Presbytis_siamensis,24,NI,NI,NI,NI,NI,NI,NI,NI,106
+Cercopithecidae,Presbytis,Siberut_Langur,Presbytis_siberu,Presbytis_siberu,16.75,NI,NI,NI,NI,NI,NI,NI,NI,1087
+Cercopithecidae,Presbytis,Black_Sumatran_Langur,Presbytis_sumatrana,Presbytis_sumatrana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Presbytis,Thomas_s_Langur,Presbytis_thomasi,Presbytis_thomasi,27.43,7.1,53.4,14,6.68,NI,NI,NI,120,961
+Cercopithecidae,Presbytis,Thomas_s_Langur,Presbytis_thomasi,Presbytis_thomasi,33.5,14,53,NI,NI,NI,NI,NI,NI,1087
+Cercopithecidae,Procolobus,Olive_Colobus,Procolobus_verus,Procolobus_verus,31,29,33,2,6.5,NI,NI,NI,NI,962
+Cercopithecidae,Procolobus,Olive_Colobus,Procolobus_verus,Procolobus_verus,55.6,53.5,57.7,2,5,Grid cell approach,NI,NI,36,886
+Lemuridae,Prolemur,Greater_Bamboo_Lemur,Prolemur_simus,Prolemur_simus,40.37,27.1,50.2,3,15,NI,NI,NI,6,963
+Lemuridae,Prolemur,Greater_Bamboo_Lemur,Prolemur_simus,Prolemur_simus,62,NI,NI,1,7,NI,NI,NI,24,668
+Indriidae,Propithecus,Silky_Sifaka,Propithecus_candidus,Propithecus_candidus,38.85,37.5,40.2,2,3,Minimum convex polygon,40.5,Kernel density estimators,4,967
+Indriidae,Propithecus,Coquerel_s_Sifaka,Propithecus_coquereli,Propithecus_coquereli,7.625,6.75,8.5,4,NI,Grid cell approach,NI,NI,12,969
+Indriidae,Propithecus,Crowned_Sifaka,Propithecus_coronatus,Propithecus_coronatus,1.35,1.2,1.5,NI,NI,NI,NI,NI,NI,970
+Indriidae,Propithecus,Decken_s_Sifaka,Propithecus_deckenii,Propithecus_deckenii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indriidae,Propithecus,Diademed_Sifaka,Propithecus_diadema,Propithecus_diadema,37.5,33,42,2,NI,NI,NI,NI,NI,973
+Indriidae,Propithecus,Diademed_Sifaka,Propithecus_diadema,Propithecus_diadema,55.11,21.22,83.18,4,5.37,Minimum convex polygon,51.98,Kernel density estimators,12,1212
+Indriidae,Propithecus,Milne_Edwards_s_Sifaka,Propithecus_edwardsi,Propithecus_edwardsi,145,NI,NI,NI,NI,NI,NI,NI,NI,1169
+Indriidae,Propithecus,Milne_Edwards_s_Sifaka,Propithecus_edwardsi,Propithecus_edwardsi,34.16,23.26,46.13,6,3.5,Kernel density estimators,NI,NI,12,1213
+Indriidae,Propithecus,Perrier_s_Sifaka,Propithecus_perrieri,Propithecus_perrieri,30,NI,NI,NI,NI,NI,NI,NI,NI,1169
+Indriidae,Propithecus,Perrier_s_Sifaka,Propithecus_perrieri,Propithecus_perrieri,1.04,1.01,1.07,2,3.5,NI,NI,NI,3,1214
+Indriidae,Propithecus,Tattersall_s_Sifaka,Propithecus_tattersalli,Propithecus_tattersalli,10.5,9,12,NI,NI,NI,NI,NI,NI,978
+Indriidae,Propithecus,Tattersall_s_Sifaka,Propithecus_tattersalli,Propithecus_tattersalli,8.35,4.4,12.3,NI,NI,NI,NI,NI,NI,977
+Indriidae,Propithecus,Verreaux_s_Sifaka,Propithecus_verreauxi,Propithecus_verreauxi,7,NI,NI,4,NI,NI,NI,NI,NI,982
+Indriidae,Propithecus,Verreaux_s_Sifaka,Propithecus_verreauxi,Propithecus_verreauxi,6.5,NI,NI,NI,NI,NI,NI,NI,NI,124
+Indriidae,Propithecus,Verreaux_s_Sifaka,Propithecus_verreauxi,Propithecus_verreauxi,4.75,1,8.5,4,4.75,NI,NI,NI,18,1215
+Cercopithecidae,Pygathrix,Grey_shanked_Douc,Pygathrix_cinerea,Pygathrix_cinerea,984,NI,NI,NI,NI,NI,NI,NI,NI,1169
+Cercopithecidae,Pygathrix,Red_shanked_Douc,Pygathrix_nemaeus,Pygathrix_nemaeus,36,NI,NI,1,21,Minimum convex polygon,NI,Kernel density estimators,11,125
+Cercopithecidae,Pygathrix,Red_shanked_Douc,Pygathrix_nemaeus,Pygathrix_nemaeus,292,NI,NI,NI,NI,NI,NI,NI,NI,126
+Cercopithecidae,Pygathrix,Black_shanked_Douc,Pygathrix_nigripes,Pygathrix_nigripes,30,20,40,2,NI,NI,NI,NI,NI,1169
+Cercopithecidae,Pygathrix,Black_shanked_Douc,Pygathrix_nigripes,Pygathrix_nigripes,20.1,NI,NI,1,5,Minimum convex polygon,NI,NI,36,1216
+Cercopithecidae,Rhinopithecus,Tonkin_Snub_nosed_Monkey,Rhinopithecus_avunculus,Rhinopithecus_avunculus,470,NI,NI,NI,NI,NI,NI,NI,NI,1126
+Cercopithecidae,Rhinopithecus,Tonkin_Snub_nosed_Monkey,Rhinopithecus_avunculus,Rhinopithecus_avunculus,1000,NI,NI,8,16.25,NI,NI,NI,5,1046
+Cercopithecidae,Rhinopithecus,Yunnan_Snub_nosed_Monkey,Rhinopithecus_bieti,Rhinopithecus_bieti,2525,NI,NI,1,175,Grid cell approach,NI,NI,12,992
+Cercopithecidae,Rhinopithecus,Yunnan_Snub_nosed_Monkey,Rhinopithecus_bieti,Rhinopithecus_bieti,956,NI,NI,1,80,NI,NI,NI,NI,993
+Cercopithecidae,Rhinopithecus,Yunnan_Snub_nosed_Monkey,Rhinopithecus_bieti,Rhinopithecus_bieti,2770,NI,NI,1,400,Grid cell approach,NI,NI,12,1015
+Cercopithecidae,Rhinopithecus,Yunnan_Snub_nosed_Monkey,Rhinopithecus_bieti,Rhinopithecus_bieti,2125,NI,NI,1,84-207,Grid cell approach,NI,NI,11,194
+Cercopithecidae,Rhinopithecus,Guizhou_Snub_nosed_Monkey,Rhinopithecus_brelichi,Rhinopithecus_brelichi,3450,NI,NI,NI,NI,NI,NI,NI,NI,995
+Cercopithecidae,Rhinopithecus,Golden_Snub_nosed_Monkey,Rhinopithecus_roxellana,Rhinopithecus_roxellana,1830,NI,NI,1,112,Grid cell approach,NI,NI,11,998
+Cercopithecidae,Rhinopithecus,Stryker_s_Snub_nosed_Monkey,Rhinopithecus_strykeri,Rhinopithecus_strykeri,2290,NI,NI,1,90,Adaptative minimum convex polygon,NI,NI,13,127
+Cercopithecidae,Rhinopithecus,Stryker_s_Snub_nosed_Monkey,Rhinopithecus_strykeri,Rhinopithecus_strykeri,1200,NI,NI,1,100,NI,NI,NI,25,188
+Cercopithecidae,Rungwecebus,Kipunji,Rungwecebus_kipunji,Rungwecebus_kipunji,306.2,116.73,430.66,4,38.75,Kernel density estimators,205.45,Adaptative kernel,3,1002
+Callitrichidae,Saguinus,Pied_Tamarin,Saguinus_bicolor,Saguinus_bicolor,12,NI,NI,1,06-sep,NI,NI,NI,11,1004
+Callitrichidae,Saguinus,Pied_Tamarin,Saguinus_bicolor,Saguinus_bicolor,58.5,17,100,2,NI,NI,NI,NI,NI,1005
+Callitrichidae,Saguinus,Geoffroy_s_Tamarin,Saguinus_geoffroyi,Saguinus_geoffroyi,34.5,26,43,NI,NI,NI,NI,NI,NI,1007
+Callitrichidae,Saguinus,Emperor_Tamarin,Saguinus_imperator,Saguinus_imperator,30,NI,NI,NI,NI,NI,NI,NI,NI,718
+Callitrichidae,Saguinus,Mottled_face_Tamarin,Saguinus_inustus,Saguinus_inustus,35,NI,NI,1,03-jun,Minimum convex polygon,NI,NI,4,1008
+Callitrichidae,Saguinus,Red_bellied_Tamarin,Saguinus_labiatus,Saguinus_labiatus,30,NI,NI,NI,NI,NI,NI,NI,NI,1010
+Callitrichidae,Saguinus,Red_bellied_Tamarin,Saguinus_labiatus,Saguinus_labiatus,19.7,16.75,23,3,6.83,Grid cell approach,NI,NI,1,187
+Callitrichidae,Saguinus,White_footed_Tamarin,Saguinus_leucopus,Saguinus_leucopus,9.22,0.73,17.7,2,8,Minimum convex polygon,NI,Grid cell approach,6,1011
+Callitrichidae,Saguinus,White_footed_Tamarin,Saguinus_leucopus,Saguinus_leucopus,60.37,0.74,120,2,NI,NI,NI,NI,NI,1005
+Callitrichidae,Saguinus,Martin_s_Bare_faced_Tamarin,Saguinus_martinsi,Saguinus_martinsi,12,NI,NI,NI,NI,NI,NI,NI,NI,128
+Callitrichidae,Saguinus,Midas_Tamarin,Saguinus_midas,Saguinus_midas,36.5,34,39,4,03-jul,NI,NI,NI,6,1014
+Callitrichidae,Saguinus,Midas_Tamarin,Saguinus_midas,Saguinus_midas,35,31.1,42.5,3,6,NI,NI,NI,9,129
+Callitrichidae,Saguinus,Mustached_Tamarin,Saguinus_mystax,Saguinus_mystax,40,NI,NI,1,11,NI,NI,NI,3,71
+Callitrichidae,Saguinus,Mustached_Tamarin,Saguinus_mystax,Saguinus_mystax,179,NI,NI,NI,NI,NI,NI,NI,NI,1005
+Callitrichidae,Saguinus,Mustached_Tamarin,Saguinus_mystax,Saguinus_mystax,40.3,33,45,3,4.8,Grid cell approach,NI,NI,16,186
+Callitrichidae,Saguinus,Western_Black_handed_Tamarin,Saguinus_niger,Saguinus_niger,32.5,28,37,2,NI,NI,NI,NI,NI,1005
+Callitrichidae,Saguinus,Western_Black_handed_Tamarin,Saguinus_niger,Saguinus_niger,35,NI,NI,1,5,Grid cell approach,NI,NI,5,88
+Callitrichidae,Saguinus,Cotton_top_Tamarin,Saguinus_oedipus,Saguinus_oedipus,13.9,7.8,20,NI,NI,NI,NI,NI,NI,1018
+Callitrichidae,Saguinus,Cotton_top_Tamarin,Saguinus_oedipus,Saguinus_oedipus,29,26,32,2,NI,Grid cell approach,NI,NI,6,178
+Callitrichidae,Saguinus,Eastern_Black_handed_Tamarin,Saguinus_ursulus,Saguinus_ursulus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Saimiri,Black_capped_Squirrel_Monkey,Saimiri_boliviensis,Saimiri_boliviensis,375,250,500,1,45-75,NI,NI,NI,NI,1020
+Cebidae,Saimiri,Humboldt_s_Squirrel_Monkey,Saimiri_cassiquiarensis,Saimiri_cassiquiarensis,170,100,240,2,47.5,NI,NI,NI,11,130
+Cebidae,Saimiri,Collins'_Squirrel_Monkey,NA,Saimiri_collinsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Saimiri,Ecuadorian_Squirrel_Monkey,Saimiri_macrodon,Saimiri_macrodon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Saimiri,Central_American_Squirrel_Monkey,Saimiri_oerstedii,Saimiri_oerstedii,176,NI,NI,1,38-45,Grid cell approach,NI,NI,11,1024
+Cebidae,Saimiri,Central_American_Squirrel_Monkey,Saimiri_oerstedii,Saimiri_oerstedii,200,NI,NI,1,26-31,NI,NI,NI,11,174
+Cebidae,Saimiri,Guianan_Squirrel_Monkey,Saimiri_sciureus,Saimiri_sciureus,87,44,130,NI,NI,NI,NI,NI,NI,1025
+Cebidae,Saimiri,Guianan_Squirrel_Monkey,Saimiri_sciureus,Saimiri_sciureus,275,250,300,1,18-25,NI,NI,NI,29,1020
+Cebidae,Saimiri,Golden_backed_Squirrel_Monkey,Saimiri_ustus,Saimiri_ustus,50,NI,NI,NI,NI,NI,NI,NI,NI,131
+Cebidae,Saimiri,Black_headed_Squirrel_Monkey,Saimiri_vanzolinii,Saimiri_vanzolinii,80,50,110,NI,NI,NI,NI,NI,NI,1027
+Cebidae,Sapajus,Guianan_Brown_Capuchin,Sapajus_apella,Sapajus_apella,355,NI,NI,1,13-17,Grid cell approach,NI,NI,19,1031
+Cebidae,Sapajus,Hooded_Capuchin,Sapajus_cay,Sapajus_cay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cebidae,Sapajus,Blond_Capuchin,Sapajus_flavius,Sapajus_flavius,51,NI,NI,NI,NI,NI,NI,NI,NI,132
+Cebidae,Sapajus,Blond_Capuchin,Sapajus_flavius,Sapajus_flavius,396.98,NI,NI,1,6,Minimum convex polygon,195,Kernel density estimators,10,133
+Cebidae,Sapajus,Bearded_Capuchin,Sapajus_libidinosus,Sapajus_libidinosus,300,NI,NI,NI,NI,NI,NI,NI,NI,1035
+Cebidae,Sapajus,Large_headed_Capuchin,Sapajus_macrocephalus,Sapajus_macrocephalus,65,50,80,2,NI,NI,NI,NI,NI,1036
+Cebidae,Sapajus,Black_horned_Capuchin,Sapajus_nigritus,Sapajus_nigritus,161,81,293,7,NI,Minimum convex polygon,NI,Grid cell approach,42,1038
+Cebidae,Sapajus,Black_horned_Capuchin,Sapajus_nigritus,Sapajus_nigritus,240,NI,NI,1,14-16,Minimum convex polygon,465.3,Kernel density estimators,21,1039
+Cebidae,Sapajus,Crested_Capuchin,Sapajus_robustus,Sapajus_robustus,110.5,NI,NI,1,15,NI,NI,NI,10,134
+Cebidae,Sapajus,Yellow_breasted_Capuchin,Sapajus_xanthosternos,Sapajus_xanthosternos,969,NI,NI,1,14,Minimum convex polygon,671,Kernel density estimators,16,1200
+Cebidae,Sapajus,Yellow_breasted_Capuchin,Sapajus_xanthosternos,Sapajus_xanthosternos,724,418,1030,2,21.5,Minimum convex polygon,979,Kernel density estimators,NI,1181
+Galagidae,Sciurocheirus,Bioko_Squirrel_Galago,Sciurocheirus_alleni,Sciurocheirus_alleni,2.35,NI,NI,NI,NI,NI,NI,NI,NI,96
+Galagidae,Sciurocheirus,Cross_River_Squirrel_Galago,Sciurocheirus_cameronensis,Sciurocheirus_cameronensis,3.2,NI,NI,NI,NI,NI,NI,NI,NI,1170
+Galagidae,Sciurocheirus,Cross_River_Squirrel_Galago,Sciurocheirus_cameronensis,Sciurocheirus_cameronensis,18.31,0.82,42.44,8,1,Minimum convex polygon,2.19,Kernel density estimators,13,881
+Galagidae,Sciurocheirus,Gabon_Squirrel_Galago,Sciurocheirus_gabonensis,Sciurocheirus_gabonensis,30,10,50,NI,NI,NI,NI,NI,NI,422
+Galagidae,Sciurocheirus,Gabon_Squirrel_Galago,Sciurocheirus_gabonensis,Sciurocheirus_gabonensis,10.25,NI,NI,NI,NI,NI,NI,NI,NI,1170
+Galagidae,Sciurocheirus,Makandé_squirrel_galago,Sciurocheirus_makandensis,Sciurocheirus_makandensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Semnopithecus,Chamba_Sacred_Langur,Semnopithecus_ajax,Semnopithecus_ajax,305,235,352,3,92,Minimum convex polygon,NI,NI,12,135
+Cercopithecidae,Semnopithecus,Chamba_Sacred_Langur,Semnopithecus_ajax,Semnopithecus_ajax,407.875,233.8,609.7,12,65.25,Other,NI,NI,13,136
+Cercopithecidae,Semnopithecus,Bengal_Sacred_Langur,Semnopithecus_entellus,Semnopithecus_entellus,82.5,NI,NI,8,13.87,NI,NI,NI,4,1044
+Cercopithecidae,Semnopithecus,Bengal_Sacred_Langur,Semnopithecus_entellus,Semnopithecus_entellus,73.7,45,106,3,35.83,Grid cell approach,NI,NI,12,762
+Cercopithecidae,Semnopithecus,Terai_Sacred_Langur,Semnopithecus_hector,Semnopithecus_hector,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Semnopithecus,Malabar_Sacred_Langur,Semnopithecus_hypoleucos,Semnopithecus_hypoleucos,12328,NI,NI,NI,NI,NI,NI,NI,12,1127
+Cercopithecidae,Semnopithecus,Nilgiri_Langur,Semnopithecus_johnii,Semnopithecus_johnii,4.83,NI,NI,NI,NI,NI,NI,NI,NI,1047
+Cercopithecidae,Semnopithecus,Nilgiri_Langur,Semnopithecus_johnii,Semnopithecus_johnii,706.6,506,830,3,18.3,NI,NI,NI,3,137
+Cercopithecidae,Semnopithecus,Tufted_Gray_Langur,Semnopithecus_priam,Semnopithecus_priam,80,30,130,NI,NI,NI,NI,NI,NI,1048
+Cercopithecidae,Semnopithecus,Nepal_Sacred_Langur,Semnopithecus_schistaceus,Semnopithecus_schistaceus,6987,NI,NI,NI,NI,NI,NI,NI,NI,1127
+Cercopithecidae,Semnopithecus,Nepal_Sacred_Langur,Semnopithecus_schistaceus,Semnopithecus_schistaceus,661.6,250,1270,6,10.75,NI,NI,NI,32,1050
+Cercopithecidae,Semnopithecus,Purple_faced_Langur,Semnopithecus_vetulus,Semnopithecus_vetulus,5.375,4.75,6,2,NI,NI,NI,NI,NI,1127
+Cercopithecidae,Simias,Pig_tailed_Langur,Simias_concolor,Simias_concolor,7.1,4.1,10,3,4,Minimum convex polygon,NI,Kernel density estimators,19,1168
+Hylobatidae,Symphalangus,Siamang,Symphalangus_syndactylus,Symphalangus_syndactylus,17.3,15.1,19.5,12,NI,NI,NI,NI,100,1056
+Tarsiidae,Tarsius,Dian_s_Tarsier,Tarsius_dentatus,Tarsius_dentatus,1.39,1.08,1.81,4,6,Minimum convex polygon,NI,NI,17,1057
+Tarsiidae,Tarsius,Makassar_Tarsier,Tarsius_fuscus,Tarsius_fuscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Lariang_Tarsier,Tarsius_lariang,Tarsius_lariang,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Peleng_Tarsier,Tarsius_pelengensis,Tarsius_pelengensis,1,NI,NI,NI,NI,NI,NI,NI,NI,1130
+Tarsiidae,Tarsius,Sulawesi_Mountain_Tarsier,Tarsius_pumilus,Tarsius_pumilus,1.2,NI,NI,1,4,Minimum convex polygon,NI,NI,2,138
+Tarsiidae,Tarsius,Sulawesi_Mountain_Tarsier,Tarsius_pumilus,Tarsius_pumilus,2.01,0.68,3.43,NI,4,Minimum convex polygon,NI,NI,13,139
+Tarsiidae,Tarsius,Great_Sangihe_Tarsier,Tarsius_sangirensis,Tarsius_sangirensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Gursky's_Spectral_Tarsier ,NA,Tarsius_spectrumgurskyae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Jatna's_Tarsier,NA,Tarsius_supriatnai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Selayar_Tarsier,Tarsius_tarsier,Tarsius_tarsier,1,NI,NI,8,3.375,NI,NI,NI,15,140
+,,Selayar_Tarsier,Tarsius_tarsier,Tarsius_tarsier,2.61,1.64,4.05,NI,13,Minimum concave polygon,NI,NI,NI,522
+Tarsiidae,Tarsius,Siau_Island_Tarsier,Tarsius_tumpara,Tarsius_tumpara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarsiidae,Tarsius,Wallace_s_Tarsier,Tarsius_wallacei,Tarsius_wallacei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Theropithecus,Gelada,Theropithecus_gelada,Theropithecus_gelada,203.43,78,344,7,146,NI,NI,NI,24,1067
+Cercopithecidae,Trachypithecus,East_Javan_Langur,Trachypithecus_auratus,Trachypithecus_auratus,19,NI,NI,1,NI,NI,NI,NI,NI,1068
+Cercopithecidae,Trachypithecus,East_Javan_Langur,Trachypithecus_auratus,Trachypithecus_auratus,5.25,2.5,8,NI,NI,NI,NI,NI,NI,1069
+Cercopithecidae,Trachypithecus,East_Javan_Langur,Trachypithecus_auratus,Trachypithecus_auratus,7.25,5.75,8.75,2,NI,Grid cell approach,NI,NI,13,859
+Cercopithecidae,Trachypithecus,Tenasserim_Langur,Trachypithecus_barbei,Trachypithecus_barbei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Trachypithecus,Indochinese_Gray_Langur,Trachypithecus_crepusculus,Trachypithecus_crepusculus,83.55,NI,NI,NI,NI,NI,NI,NI,NI,1134
+Cercopithecidae,Trachypithecus,Indochinese_Gray_Langur,Trachypithecus_crepusculus,Trachypithecus_crepusculus,376,357,395,1,81-90,Minimum convex polygon,344,Kernel density estimators,12,141
+Cercopithecidae,Trachypithecus,Indochinese_Gray_Langur,Trachypithecus_crepusculus,Trachypithecus_crepusculus,400,NI,NI,6,NI,NI,NI,NI,5,142
+Cercopithecidae,Trachypithecus,Silvered_Langur,Trachypithecus_cristatus,Trachypithecus_cristatus,43,NI,NI,NI,NI,NI,NI,NI,NI,143
+Cercopithecidae,Trachypithecus,Delacour_s_Langur,Trachypithecus_delacouri,Trachypithecus_delacouri,36,NI,NI,2,NI,NI,NI,NI,NI,1077
+Cercopithecidae,Trachypithecus,Black_Langur,Trachypithecus_ebenus,Trachypithecus_ebenus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Trachypithecus,Francois_s_Langur,Trachypithecus_francoisi,Trachypithecus_francoisi,64.5,NI,NI,1,NI,Grid cell approach,NI,NI,12,634
+Cercopithecidae,Trachypithecus,Francois_s_Langur,Trachypithecus_francoisi,Trachypithecus_francoisi,27,NI,NI,1,NI,NI,NI,NI,NI,1079
+Cercopithecidae,Trachypithecus,Francois_s_Langur,Trachypithecus_francoisi,Trachypithecus_francoisi,19,NI,NI,1,04-jul,Grid cell approach,NI,NI,10,144
+Cercopithecidae,Trachypithecus,Golden_Langur,Trachypithecus_geei,Trachypithecus_geei,375,NI,NI,NI,NI,NI,NI,NI,NI,1172
+Cercopithecidae,Trachypithecus,Golden_Langur,Trachypithecus_geei,Trachypithecus_geei,41.5,25,58,2,9,Grid cell approach,NI,NI,12,1080
+Cercopithecidae,Trachypithecus,Germain_s_Langur,Trachypithecus_germaini,Trachypithecus_germaini,17,NI,NI,1,NI,NI,NI,NI,NI,1081
+Cercopithecidae,Trachypithecus,Hatinh_Langur,Trachypithecus_hatinhensis,Trachypithecus_hatinhensis,225,150,300,NI,NI,NI,NI,NI,NI,1083
+Cercopithecidae,Trachypithecus,Laos_Langur,Trachypithecus_laotum,Trachypithecus_laotum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cercopithecidae,Trachypithecus,White_headed_Langur,Trachypithecus_leucocephalus,Trachypithecus_leucocephalus,29.1,16,48,9,8.83,Minimum convex polygon,NI,NI,13,1086
+Cercopithecidae,Trachypithecus,Annamese_Langur,Trachypithecus_margarita,Trachypithecus_margarita,221,NI,NI,1,NI,Minimum convex polygon,256.25,Grid cell approach,13,145
+Cercopithecidae,Trachypithecus,West_Javan_Langur,Trachypithecus_mauritius,Trachypithecus_mauritius,5.25,2.5,8,NI,NI,NI,NI,NI,NI,309
+Cercopithecidae,Trachypithecus,Dusky_Langur,Trachypithecus_obscurus,Trachypithecus_obscurus,30.5,28,33,NI,NI,NI,NI,NI,NI,1090
+Cercopithecidae,Trachypithecus,Phayre_s_Langur,Trachypithecus_phayrei,Trachypithecus_phayrei,82.37,52.2,102.5,3,18.1,Kernel density estimators,NI,NI,28,146
+Cercopithecidae,Trachypithecus,Capped_Langur,Trachypithecus_pileatus,Trachypithecus_pileatus,18,NI,NI,NI,NI,NI,NI,NI,NI,1093
+Cercopithecidae,Trachypithecus,Cat_Ba_Langur,Trachypithecus_poliocephalus,Trachypithecus_poliocephalus,30,NI,NI,NI,NI,NI,NI,NI,NI,254
+Cercopithecidae,Trachypithecus,Cat_Ba_Langur,Trachypithecus_poliocephalus,Trachypithecus_poliocephalus,36,22,50,2,9.25,Minimum convex polygon,NI,NI,12,165
+Cercopithecidae,Trachypithecus,Selangor_Silvery_Langur,Trachypithecus_selangorensis,Trachypithecus_selangorensis,31.5,NI,NI,NI,NI,NI,NI,NI,NI,1172
+Cercopithecidae,Trachypithecus,Shortridge_s_Langur,Trachypithecus_shortridgei,Trachypithecus_shortridgei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lemuridae,Varecia,Red_Ruffed_Lemur,Varecia_rubra,Varecia_rubra,24.55,23.3,25.8,2,5.5,Grid cell approach,NI,NI,11,1096
+Lemuridae,Varecia,Red_Ruffed_Lemur,Varecia_rubra,Varecia_rubra,10.5,5.42,9.3,3,3.5,Kernel density estimators,NI,NI,7,586
+Lemuridae,Varecia,Black_and_white_Ruffed_Lemur,Varecia_variegata,Varecia_variegata,116.67,100,150,3,5.16,NI,NI,NI,48,1099
+Lemuridae,Varecia,Black_and_white_Ruffed_Lemur,Varecia_variegata,Varecia_variegata,139,NI,NI,NI,NI,NI,NI,NI,NI,277
