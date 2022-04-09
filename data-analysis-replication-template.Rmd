@@ -1,0 +1,49 @@
+---
+title: "Data Analysis Replication Assignment"
+author: "Your Name"
+date: "Date"
+output:
+    html_document
+---
+
+```{r setup, include=FALSE}
+# These are some {knitr} options I typically use to format my 
+# ***RMarkdown*** documents in a consistent way
+# You should feel free to alter these or use other "chunk options" as
+# you see fit!
+# Sometimes, for example, you might want to suppress warnings or
+# messages, and that behavior can be set for specific code chunks in
+# the chunk header, e.g., ```{r warning = FALSE, echo = FALSE}
+knitr::opts_chunk$set(
+  eval = TRUE, # run code in code chunks
+  echo = TRUE, # render output of code chunks
+  warning = TRUE, # do not suppress "warnings"
+  message = TRUE, # do not suppress "messages"
+  comment = "##", # prefix for comment lines
+  prompt = ">", # prefix for code lines
+  tidy = TRUE,
+  tidy.opts = list(blank = FALSE, width.cutoff = 75),
+  fig.path = "img/", # name of folder for images
+  fig.align = "center" # centers any images on the page
+)
+```
+
+## Introduction
+
+[Include a brief summary of the paper you are reanalyzing data from (e.g., the overall objective of the paper, the types of data collected and how sampling was done, what the main results were) and lay out what you intend to replicate.]
+
+## Visualization of Data
+
+[Include a view of the first few lines of the dataset plus any exploratory data analysis - e.g., overview of descriptive statistics included in the paper, plots, etc.]
+
+## Statistical Replications/Reanalysis
+
+[Be sure to **thoroughly** explain what replications you are doing and comment your code so that it is easy for a reader to understand. Include in this section relevant tables/figures/values from the original paper for comparison to what you accomplished with your replication. Note that I want you to do the bulk of any *exposition* using text and markdown syntax outside of code blocks. That is, your document should not just be one big code block with ***R*** style comments but rather a nicely formatted report with code separated from exposition, interpretation, and dicussion.]
+
+## Summary/Discussion
+
+[Narrative section that overviews how successful were you at replicating the analyses and visualizations in the study. What problems did you encounter? Why might you have encountered those problems? What details were lacking from the original study's methods that might have hampered your ability to replicate the authors' results?]
+
+## References
+
+[Include the citation for your paper, plus any other literature you might reference.]
